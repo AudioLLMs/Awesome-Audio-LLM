@@ -13,7 +13,6 @@
 This repository is a curated collection of research papers focused on the development, implementation, and evaluation of language models for audio data. Our goal is to provide researchers and practitioners with a comprehensive resource to explore the latest advancements in AudioLLMs. Contributions and suggestions for new papers are highly encouraged!
 
 ---
----
 
 ## Models and Methods
 ```
@@ -156,7 +155,7 @@ This repository is a curated collection of research papers focused on the develo
   - [Paper](https://arxiv.org/pdf/2304.12995.pdf) / [![GitHub stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)](https://github.com/AIGC-Audio/AudioGPT)
 
 ---
----
+
 ## Evaluation
 
 ```
@@ -204,7 +203,7 @@ This repository is a curated collection of research papers focused on the develo
   - [Paper](https://arxiv.org/abs/2309.09510) / [![GitHub stars](https://img.shields.io/github/stars/dynamic-superb/dynamic-superb?style=social)](https://github.com/dynamic-superb/dynamic-superb)
 
 ---
----
+
 ## Survey Papers
 
 - `【2024-11】-【Zhejiang University】`
@@ -220,7 +219,7 @@ This repository is a curated collection of research papers focused on the develo
   - [Paper](https://arxiv.org/pdf/2410.18908v2)
 
 ---
----
+
 ## Multimodality Models (language + audio + other modalities)
 
 To list out some multimodal models that could process audio (speech, non-speech, music, audio-scene, sound, etc.) and text inputs.
@@ -232,7 +231,7 @@ To list out some multimodal models that could process audio (speech, non-speech,
 | 2023-06 |     Macaw-LLM        |      Tencent           | Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration | [Paper](https://arxiv.org/pdf/2306.09093) / [Code](https://github.com/lyuchenyang/Macaw-LLM) |
 
 ---
----
+
 ## Adversarial Attacks
 
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
@@ -242,5 +241,5 @@ To list out some multimodal models that could process audio (speech, non-speech,
 
 
 #### TODO
-- Update the table to text format to allow more structured display
+- Update the table to text format to allow a more structured display
 
