@@ -1,0 +1,18 @@
+{
+    "Category": "Survey",
+    "Type": "Survey",
+    "Abbreviation": "SpeechLM-Survey",
+    "Title": "Recent Advances in Speech Language Models: A Survey",
+    "Time": "2024-10",
+    "Affiliation": "CUHK, Tencent",
+    "Author": "Wenqian Cui, Dianzhi Yu, Xiaoqi Jiao, Ziqiao Meng, Guangyan Zhang, Qichao Wang, Yiwen Guo, Irwin King",
+    "GitHub_Link": "",
+    "Paper_Link": "https://arxiv.org/pdf/2410.03751",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "No",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": ""
+}

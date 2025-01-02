@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "Prompting LLMs with Speech Recognition",
+    "Title": "Prompting Large Language Models with Speech Recognition Abilities",
+    "Time": "2023-07",
+    "Affiliation": "Meta",
+    "Author": "Yassir Fathullah, Chunyang Wu, Egor Lakomkin, Junteng Jia, Yuan Shangguan, Ke Li, Jinxi Guo, Wenhan Xiong, Jay Mahadeokar, Ozlem Kalinli, Christian Fuegen, Mike Seltzer",
+    "GitHub_Link": "",
+    "Paper_Link": "https://arxiv.org/pdf/2307.11795",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": "This paper presents a method to extend large language models (LLMs) with speech recognition capabilities by integrating a small audio encoder. By prepending audio embeddings to text token embeddings, the LLM can function as an automatic speech recognition (ASR) system. Experiments demonstrate that incorporating a conformer encoder into the LLaMA-7B model enables it to outperform monolingual baselines and perform multilingual speech recognition, despite being predominantly trained on English text."
+}

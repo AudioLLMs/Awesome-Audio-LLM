@@ -1,0 +1,18 @@
+{
+    "Category"    : "Model and Methods",
+    "Type"        : "Model",
+    "Abbreviation": "SPIRIT LM",
+    "Title"       : "SPIRIT LM: Interleaved Spoken and Written Language Model",
+    "Time"        : "2024-10",
+    "Affiliation" : "Meta",
+    "Author"      : "Tu Anh Nguyen, Benjamin Muller, Bokai Yu, Marta R. Costa-jussa, Maha Elbayad, Sravya Popuri, Christophe Ropers, Paul-Ambroise Duquenne, Robin Algayres, Ruslan Mavlyutov, Itai Gat, Mary Williamson, Gabriel Synnaeve, Juan Pino, Benoit Sagot, Emmanuel Dupoux",
+    "GitHub_Link" : "https://github.com/facebookresearch/spiritlm",
+    "Paper_Link"  : "https://arxiv.org/abs/2402.05755",
+    "HF_Link"     : "",
+    "Demo_Link"   : "",
+    "Other_Link"  : "https://speechbot.github.io/spiritlm/",
+    "Audio_Input" : "Yes",
+    "Audio_Output": "Yes",
+    "Language"    : "English",
+    "Description" : ""
+}

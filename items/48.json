@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "SLAM-LLM",
+    "Title": "An Embarrassingly Simple Approach for LLM with Strong ASR Capacity",
+    "Time": "2024-02",
+    "Affiliation": "Shanghai Jiao Tong University (SJTU)",
+    "Author": "Authors not specified in the provided information",
+    "GitHub_Link": "https://github.com/X-LANCE/SLAM-LLM",
+    "Paper_Link": "https://arxiv.org/pdf/2402.08846",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "Multilingual",
+    "Description": "SLAM-LLM is a model developed by SJTU that integrates large language models with strong automatic speech recognition (ASR) capabilities, providing a simple yet effective approach for speech-to-text tasks across multiple languages."
+}

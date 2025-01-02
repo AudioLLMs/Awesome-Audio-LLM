@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "CompA",
+    "Title": "CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models",
+    "Time": "2024-07",
+    "Affiliation": "University of Maryland, College Park; Adobe, USA; NVIDIA, Bangalore, India",
+    "Author": "Sreyan Ghosh, Ashish Seth, Sonal Kumar, Utkarsh Tyagi, Chandra Kiran Evuru, S. Ramaneswaran, S. Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha",
+    "GitHub_Link": "https://github.com/Sreyan88/CompA",
+    "Paper_Link": "https://arxiv.org/abs/2310.08753",
+    "HF_Link": "",
+    "Demo_Link": "https://sreyan88.github.io/compa_iclr/",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": "CompA introduces two expert-annotated benchmarks, CompA-order and CompA-attribute, designed to evaluate compositional reasoning in audio-language models (ALMs). CompA-order assesses an ALM's understanding of the sequence of acoustic events, while CompA-attribute evaluates attribute-binding of these events. The study reveals that current ALMs perform marginally better than random chance in compositional reasoning tasks. To address this, the authors propose CompA-CLAP, a fine-tuned model employing a novel learning method with composition-aware hard negatives and a modular contrastive loss, enhancing fine-grained compositional understanding without relying on extensive compositional audio datasets. CompA-CLAP demonstrates significant improvements over baseline models on the CompA benchmark, indicating its superior compositional reasoning capabilities."
+}

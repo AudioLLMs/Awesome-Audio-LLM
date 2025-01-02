@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "MoWE-Audio",
+    "Title": "MoWE-Audio: Multitask AudioLLMs with Mixture of Weak Encoders",
+    "Time": "2024-09",
+    "Affiliation": "A*STAR",
+    "Author": "Wenyu Zhang, Shuo Sun, Bin Wang, Xunlong Zou, Zhuohan Liu, Yingxu He, Geyu Lin, Nancy F. Chen, Ai Ti Aw",
+    "GitHub_Link": "",
+    "Paper_Link": "https://arxiv.org/pdf/2409.06635",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": "MoWE-Audio introduces a novel approach to enhance Audio Large Language Models (AudioLLMs) by incorporating a mixture of 'weak' encoders. This method supplements a base encoder with a pool of lightweight encoders, selectively activated based on the audio input, to improve feature extraction without significantly increasing model size. Empirical results demonstrate that MoWE effectively enhances multi-task performance, broadening the applicability of AudioLLMs to more diverse audio tasks."
+}

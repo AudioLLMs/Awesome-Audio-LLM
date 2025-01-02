@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "Segment-level Q-Former",
+    "Title": "Connecting Speech Encoder and Large Language Model for ASR",
+    "Time": "2023-09",
+    "Affiliation": "Tsinghua University, ByteDance",
+    "Author": "Wenyi Yu, Changli Tang, Guangzhi Sun, Xianzhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang",
+    "GitHub_Link": "",
+    "Paper_Link": "https://arxiv.org/pdf/2309.13963",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": "This paper presents a comparative study of three connector structures—fully connected layers, multi-head cross-attention, and Q-Former—for integrating speech encoders with large language models (LLMs) in automatic speech recognition (ASR) systems. The study finds that LLMs with Q-Formers achieve consistent and significant word error rate reductions over other connector structures. Additionally, a novel segment-level Q-Former is proposed to enable LLMs to recognize longer speech segments, resulting in further performance improvements."
+}

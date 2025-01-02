@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "DeSTA",
+    "Title": "DeSTA: Enhancing Speech Language Models through Descriptive Speech-Text Alignment",
+    "Time": "2024-06",
+    "Affiliation": "NTU-Taiwan, Nvidia",
+    "Author": "Authors not specified in the provided information",
+    "GitHub_Link": "https://github.com/kehanlu/Nemo/tree/desta/examples/multimodal/DeSTA",
+    "Paper_Link": "https://arxiv.org/abs/2406.18871",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "Multilingual",
+    "Description": "DeSTA is a model that enhances speech language models by aligning descriptive speech and text, improving the model's ability to understand and generate accurate transcriptions across multiple languages."
+}

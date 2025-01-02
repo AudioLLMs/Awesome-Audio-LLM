@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "SALMONN",
+    "Title": "SALMONN: Towards Generic Hearing Abilities for Large Language Models",
+    "Time": "2024-04",
+    "Affiliation": "Tsinghua",
+    "Author": "Authors not specified in the provided information",
+    "GitHub_Link": "https://github.com/bytedance/SALMONN",
+    "Paper_Link": "https://arxiv.org/pdf/2310.13289.pdf",
+    "HF_Link": "",
+    "Demo_Link": "https://huggingface.co/spaces/tsinghua-ee/SALMONN-7B-gradio",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "Multilingual",
+    "Description": "SALMONN is a model developed by Tsinghua University aiming to equip large language models with generic hearing abilities, enhancing their capacity to process and understand diverse audio inputs."
+}

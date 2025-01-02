@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "Speech ReaLLM",
+    "Title": "Speech ReaLLM – Real-time Streaming Speech Recognition with Multimodal LLMs by Teaching the Flow of Time",
+    "Time": "2024-06",
+    "Affiliation": "Meta",
+    "Author": "Authors not specified in the provided information",
+    "GitHub_Link": "",
+    "Paper_Link": "https://arxiv.org/pdf/2406.09569",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "Multilingual",
+    "Description": "Speech ReaLLM is a real-time streaming speech recognition model developed by Meta, utilizing multimodal large language models to understand the temporal flow of speech for accurate and efficient transcription."
+}

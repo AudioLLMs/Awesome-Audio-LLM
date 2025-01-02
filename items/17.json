@@ -1,0 +1,18 @@
+{
+    "Category": "Benchmark",
+    "Type": "Benchmark",
+    "Abbreviation": "VoiceBench",
+    "Title": "VoiceBench: Benchmarking LLM-Based Voice Assistants",
+    "Time": "2024-10",
+    "Affiliation": "National University of Singapore",
+    "Author": "Yiming Chen, Xianghu Yue, Chen Zhang, Xiaoxue Gao, Robby T. Tan, Haizhou Li",
+    "GitHub_Link": "https://github.com/MatthewCYM/VoiceBench",
+    "Paper_Link": "https://arxiv.org/pdf/2410.17196",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": "VoiceBench is a comprehensive evaluation framework designed to assess the capabilities of LLM-based voice assistants. It evaluates various aspects, including general knowledge, instruction-following abilities, and safety measures, using both synthetic and real spoken instruction data that reflect real-world variations such as speaker characteristics, environmental factors, and content complexities."
+}

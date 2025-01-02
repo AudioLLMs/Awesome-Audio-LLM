@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "SPIRIT LM",
+    "Title": "SPIRIT LM: Interleaved Spoken and Written Language Model",
+    "Time": "2024-10",
+    "Affiliation": "Meta",
+    "Author": "Tu Anh Nguyen, Benjamin Muller, Bokai Yu, Marta R. Costa-jussa, Maha Elbayad, Sravya Popuri, Paul-Ambroise Duquenne, Robin Algayres, Ruslan Mavlyutov, Itai Gat, Gabriel Synnaeve, Juan Pino, Benoît Sagot, Emmanuel Dupoux",
+    "GitHub_Link": "https://github.com/facebookresearch/spiritlm",
+    "Paper_Link": "https://arxiv.org/pdf/2402.05755",
+    "HF_Link": "",
+    "Demo_Link": "https://speechbot.github.io/spiritlm/",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "",
+    "Description": "SPIRIT LM is a foundational multimodal language model developed by Meta that seamlessly integrates text and speech modalities. By extending a pretrained text language model to the speech domain through continuous training on both text and speech units, SPIRIT LM can process interleaved speech and text sequences. It comes in two versions: BASE, utilizing speech phonetic units (HuBERT), and EXPRESSIVE, which incorporates pitch and style units to model expressivity. The model demonstrates capabilities in tasks such as ASR, TTS, and speech classification, leveraging few-shot learning across modalities."
+}

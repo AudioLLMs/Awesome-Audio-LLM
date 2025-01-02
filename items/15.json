@@ -1,0 +1,18 @@
+{
+    "Category": "Benchmark",
+    "Type": "Benchmark",
+    "Abbreviation": "AudioEntailment",
+    "Title": "Audio Entailment: Assessing Deductive Reasoning for Audio Understanding",
+    "Time": "2024-07",
+    "Affiliation": "CMU, Microsoft",
+    "Author": "Soham Deshmukh, Shuo Han, Hazim Bukhari, Benjamin Elizalde, Hannes Gamper, Rita Singh, Bhiksha Raj",
+    "GitHub_Link": "https://github.com/microsoft/AudioEntailment",
+    "Paper_Link": "https://arxiv.org/pdf/2407.18062",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": ""
+}

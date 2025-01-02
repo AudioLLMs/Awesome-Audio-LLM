@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "",
+    "Title": "Building a Taiwanese Mandarin Spoken Language Model: A First Attempt",
+    "Time": "2024-11",
+    "Affiliation": "National Taiwan University",
+    "Author": "Chih-Kai Yang, Yu-Kuan Fu, Chen-An Li, Yi-Cheng Lin, Yu-Xiang Lin, Wei-Chih Chen, Ho Lam Chung, Chun-Yi Kuan, Wei-Ping Huang, Ke-Han Lu, Tzu-Quan Lin, Hsiu-Hsuan Wang, En-Pei Hu, Chan-Jan Hsu, Liang-Hsuan Tseng, I-Hsiang Chiu, Ulin Sanga, Xuanjun Chen, Po-chun Hsu, Shu-wen Yang, Hung-yi Lee",
+    "GitHub_Link": "",
+    "Paper_Link": "https://arxiv.org/pdf/2411.07111",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "Taiwanese Mandarin",
+    "Description": "This technical report presents an initial attempt to develop a spoken large language model (LLM) for Taiwanese Mandarin, tailored for real-time, speech-to-speech interactions in multi-turn conversations. The end-to-end model employs a decoder-only transformer architecture, aiming for seamless interaction with full-duplex capabilities that allow simultaneous speaking and listening. The report details the training process, including data preparation with synthesized dialogues and adjustments for real-time interaction, and introduces a platform to evaluate conversational fluency and response coherence in multi-turn dialogues."
+}

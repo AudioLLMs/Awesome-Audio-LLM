@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "UniAudio",
+    "Title": "An Audio Foundation Model Toward Universal Audio Generation",
+    "Time": "2023-10",
+    "Affiliation": "Chinese University of Hong Kong (CUHK)",
+    "Author": "Authors not specified in the provided information",
+    "GitHub_Link": "https://github.com/yangdongchao/UniAudio",
+    "Paper_Link": "https://arxiv.org/abs/2310.00704",
+    "HF_Link": "",
+    "Demo_Link": "https://dongchaoyang.top/UniAudio_demo/",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "Multilingual",
+    "Description": "UniAudio is an audio foundation model developed by CUHK, aiming toward universal audio generation by supporting various audio generation tasks, including speech, sound, music, and singing voice, based on diverse input conditions."
+}

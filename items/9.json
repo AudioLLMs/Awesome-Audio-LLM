@@ -1,0 +1,18 @@
+{
+    "Category": "Survey",
+    "Type": "Survey",
+    "Abbreviation": "WavChat-Survey",
+    "Title": "WavChat: A Survey of Spoken Dialogue Models",
+    "Time": "2024-11",
+    "Affiliation": "Zhejiang University",
+    "Author": "Shengpeng Ji, Yifu Chen, Minghui Fang, Jialong Zuo, Jingyu Lu, Hanting Wang, Ziyue Jiang, Long Zhou, Shujie Liu, Xize Cheng, Xiaoda Yang, Zehan Wang, Qian Yang, Jian Li, Yidi Jiang, Jingzhen He, Yunfei Chu, Jin Xu, Zhou Zhao",
+    "GitHub_Link": "",
+    "Paper_Link": "https://arxiv.org/abs/2411.13577",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "No",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": ""
+}

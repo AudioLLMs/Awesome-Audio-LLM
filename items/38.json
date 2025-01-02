@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "LLaST",
+    "Title": "LLaST: Improved End-to-end Speech Translation System Leveraged by Large Language Models",
+    "Time": "2024-07",
+    "Affiliation": "The Chinese University of Hong Kong, Shenzhen; Shanghai AI Laboratory; Nara Institute of Science and Technology, Japan",
+    "Author": "Xi Chen, Songyang Zhang, Qibing Bai, Kai Chen, Satoshi Nakamura",
+    "GitHub_Link": "https://github.com/openaudiolab/LLaST",
+    "Paper_Link": "https://arxiv.org/pdf/2407.15415",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "Multilingual",
+    "Description": "LLaST is a framework designed to enhance end-to-end speech-to-text translation systems by leveraging Large Language Models (LLMs). It addresses limitations in traditional E2E ST models through innovative architecture design and optimization techniques, including ASR-augmented training, multilingual data augmentation, and dual-LoRA optimization. Evaluations on the CoVoST-2 benchmark demonstrate LLaST's superior performance and scalability, making it a strong baseline for future speech translation research."
+}

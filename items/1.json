@@ -1,0 +1,18 @@
+{
+    "Category"    : "Model and Methods",
+    "Type"        : "Model",
+    "Abbreviation": "MERaLiON-AudioLLM",
+    "Title"       : "MERaLiON-AudioLLM: Bridging Audio and Language with Large Language Models",
+    "Time"        : "2024-12",
+    "Affiliation" : "I2R, A*STAR, Singapore",
+    "Author"      : "Yingxu He, Zhuohan Liu, Shuo Sun, Bin Wang, Wenyu Zhang, Xunlong Zou, Nancy F. Chen, Ai Ti Aw",
+    "GitHub_Link" : "",
+    "Paper_Link"  : "https://arxiv.org/abs/2412.09818",
+    "HF_Link"     : "https://huggingface.co/MERaLiON/MERaLiON-AudioLLM-Whisper-SEA-LION",
+    "Demo_Link"   : "https://huggingface.co/spaces/MERaLiON/MERaLiON-AudioLLM",
+    "Other_Link"  : "",
+    "Audio_Input" : "Yes",
+    "Audio_Output": "No",
+    "Language"    : "Multilingual",
+    "Description" : ""
+}

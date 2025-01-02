@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "SpeechEmotionLlama",
+    "Title": "Frozen Large Language Models Can Perceive Paralinguistic Aspects of Speech",
+    "Time": "2024-10",
+    "Affiliation": "MIT, Meta",
+    "Author": "Wonjune Kang, Junteng Jia, Chunyang Wu, Wei Zhou, Egor Lakomkin, Yashesh Gaur, Leda Sari, Suyoun Kim, Ke Li, Jay Mahadeokar, Ozlem Kalinli",
+    "GitHub_Link": "",
+    "Paper_Link": "https://arxiv.org/pdf/2410.01162",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": "This paper explores the capability of large language models (LLMs) to understand paralinguistic aspects of speech, such as emotions and speaking styles, without fine-tuning their weights. By training a speech encoder to produce token embeddings that align the LLM's responses to expressive speech prompts with semantically matching text prompts specifying the speaker's emotion, the system effectively conveys both semantic and paralinguistic information to the LLM. Experiments demonstrate that this approach enables LLMs to generate higher quality and more empathetic responses to expressive speech inputs."
+}

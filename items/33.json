@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "AudioBERT",
+    "Title": "AudioBERT: Audio Knowledge Augmented Language Model",
+    "Time": "2024-09",
+    "Affiliation": "POSTECH, Inha University",
+    "Author": "Hyunjong Ok, Suho Yoo, Jaeho Lee",
+    "GitHub_Link": "https://github.com/HJ-Ok/AudioBERT",
+    "Paper_Link": "https://arxiv.org/pdf/2409.08199",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": "AudioBERT is a language model augmented with auditory knowledge to enhance its performance on tasks requiring an understanding of sounds. It employs a retrieval-based approach, utilizing an Auditory Knowledge Span Detector to identify text spans necessitating auditory knowledge. Relevant audio embeddings are retrieved using CLAP (Contrastive Language-Audio Pretraining) and integrated into the language model. This method enables AudioBERT to effectively handle tasks such as animal sound recognition and sound pitch comparison, as demonstrated on the AuditoryBench dataset."
+}

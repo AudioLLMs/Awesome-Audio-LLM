@@ -1,0 +1,18 @@
+{
+    "Category": "Benchmark",
+    "Type": "Benchmark",
+    "Abbreviation": "SALMon",
+    "Title": "A Suite for Acoustic Language Model Evaluation",
+    "Time": "2024-09",
+    "Affiliation": "Hebrew University of Jerusalem",
+    "Author": "Gallil Maimon, Amit Roth, Yossi Adi",
+    "GitHub_Link": "https://github.com/adiyoss-lab/salmon",
+    "Paper_Link": "https://arxiv.org/abs/2409.07437",
+    "HF_Link": "",
+    "Demo_Link": "https://pages.cs.huji.ac.il/adiyoss-lab/salmon/",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": "SALMon is a novel evaluation suite encompassing background noise, emotion, speaker identity, and room impulse response. It evaluates both the consistency of the inspected element and its alignment with the spoken text, providing a comprehensive benchmark for speech language models."
+}

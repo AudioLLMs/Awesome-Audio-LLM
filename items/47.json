@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "WavLLM",
+    "Title": "WavLLM: Towards Robust and Adaptive Speech Large Language Model",
+    "Time": "2024-03",
+    "Affiliation": "CUHK",
+    "Author": "Authors not specified in the provided information",
+    "GitHub_Link": "https://github.com/microsoft/SpeechT5/tree/main/WavLLM",
+    "Paper_Link": "https://arxiv.org/pdf/2404.00656",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "Multilingual",
+    "Description": "WavLLM is a speech large language model developed by CUHK, designed to be robust and adaptive across various speech processing tasks, supporting multilingual audio inputs for comprehensive language understanding."
+}

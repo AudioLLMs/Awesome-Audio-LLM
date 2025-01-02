@@ -1,0 +1,18 @@
+{
+    "Category"    : "Multimodal",
+    "Type"        : "Model",
+    "Abbreviation": "CoDi-2",
+    "Title"       : "CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation",
+    "Time"        : "2023-11",
+    "Affiliation" : "UC Berkeley",
+    "Author"      : "Zineng Tang, Ziyi Yang, Mahmoud Khademi, Yang Liu, Chenguang Zhu, Mohit Bansal",
+    "GitHub_Link" : "https://github.com/microsoft/i-Code/tree/main/CoDi-2",
+    "Paper_Link"  : "https://arxiv.org/pdf/2311.18775",
+    "HF_Link"     : "",
+    "Demo_Link"   : "https://codi-2.github.io/",
+    "Other_Link"  : "",
+    "Audio_Input" : "Yes",
+    "Audio_Output": "Yes",
+    "Language"    : "English",
+    "Description" : ""
+}

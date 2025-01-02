@@ -1,0 +1,18 @@
+{
+    "Category"    : "Survey",
+    "Type"        : "Survey",
+    "Abbreviation": "SpeechLLM-Survey",
+    "Title"       : "A Survey on Speech Large Language Models",
+    "Time"        : "2024-10",
+    "Affiliation" : "SJTU, AISpeech",
+    "Author"      : "Jing Peng, Yucheng Wang, Yu Xi, Xu Li, Xizhuo Zhang, Kai Yu",
+    "GitHub_Link" : "",
+    "Paper_Link"  : "https://arxiv.org/pdf/2410.18908v2",
+    "HF_Link"     : "",
+    "Demo_Link"   : "",
+    "Other_Link"  : "",
+    "Audio_Input" : "No",
+    "Audio_Output": "No",
+    "Language"    : "",
+    "Description" : ""
+}

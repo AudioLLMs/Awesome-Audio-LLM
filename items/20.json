@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "AudioGPT",
+    "Title": "AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head",
+    "Time": "2023-04",
+    "Affiliation": "Zhejiang University",
+    "Author": "Rongjie Huang, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe",
+    "GitHub_Link": "https://github.com/AIGC-Audio/AudioGPT",
+    "Paper_Link": "https://arxiv.org/pdf/2304.12995.pdf",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "",
+    "Description": "AudioGPT is a multimodal AI system that integrates Large Language Models (LLMs) with foundation models to process complex audio information, enabling tasks such as understanding and generating speech, music, sound, and talking head. It supports spoken dialogue through ASR and TTS interfaces, facilitating human-like interactions and content creation."
+}

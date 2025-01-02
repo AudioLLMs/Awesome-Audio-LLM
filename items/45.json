@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "Audio Flamingo",
+    "Title": "Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities",
+    "Time": "2024-05",
+    "Affiliation": "Nvidia",
+    "Author": "Authors not specified in the provided information",
+    "GitHub_Link": "https://github.com/NVIDIA/audio-flamingo",
+    "Paper_Link": "https://arxiv.org/abs/2402.01831",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "Multilingual",
+    "Description": "Audio Flamingo is an audio language model developed by Nvidia, featuring few-shot learning and dialogue capabilities. It supports multilingual audio input and output, enabling natural and context-aware audio interactions."
+}

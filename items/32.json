@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "Ultravox",
+    "Title": "Ultravox: A Fast Multimodal LLM for Real-Time Voice",
+    "Time": "2024-09",
+    "Affiliation": "Fixie.ai",
+    "Author": "",
+    "GitHub_Link": "https://github.com/fixie-ai/ultravox",
+    "Paper_Link": "",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "Multilingual",
+    "Description": "Ultravox is an open-source multimodal large language model (LLM) designed for real-time voice interactions. It extends any open-weight LLM with a multimodal projector that converts audio directly into the high-dimensional space used by LLMs, eliminating the need for a separate Automatic Speech Recognition (ASR) stage. This direct coupling allows Ultravox to respond more quickly than systems that combine separate ASR and LLM components. The current version (v0.4) supports multiple languages, including Arabic, Chinese, Dutch, English, French, German, Hindi, Italian, Japanese, Portuguese, Russian, Spanish, Swedish, Turkish, and Ukrainian. Ultravox is capable of understanding both text and human speech, making it suitable for applications such as voice agents, speech-to-speech translation, and analysis of spoken audio."
+}

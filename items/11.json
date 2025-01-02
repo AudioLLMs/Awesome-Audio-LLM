@@ -1,0 +1,18 @@
+{
+    "Category": "Benchmark",
+    "Type": "Benchmark",
+    "Abbreviation": "MuChoMusic",
+    "Title": "MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models",
+    "Time": "2024-08",
+    "Affiliation": "UPF, QMUL, UMG",
+    "Author": "Benno Weck, Ilaria Manco, Emmanouil Benetos, Elio Quinton, George Fazekas, Dmitry Bogdanov",
+    "GitHub_Link": "https://github.com/mulab-mir/muchomusic",
+    "Paper_Link": "https://arxiv.org/abs/2408.01337",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": ""
+}

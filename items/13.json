@@ -1,0 +1,18 @@
+{
+    "Category": "Study",
+    "Type": "Research",
+    "Abbreviation": "Audio Hallucination",
+    "Title": "Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models",
+    "Time": "2024-06",
+    "Affiliation": "NTU-Taiwan",
+    "Author": "Chun-Yi Kuan, Wei-Ping Huang, Hung-yi Lee",
+    "GitHub_Link": "https://github.com/kuan2jiu99/audio-hallucination",
+    "Paper_Link": "https://arxiv.org/pdf/2406.08402",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": ""
+}

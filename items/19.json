@@ -1,0 +1,18 @@
+{
+    "Category": "Benchmark",
+    "Type": "Benchmark",
+    "Abbreviation": "AudioBench",
+    "Title": "AudioBench: A Universal Benchmark for Audio Large Language Models",
+    "Time": "2024-06",
+    "Affiliation": "A*STAR, Singapore",
+    "Author": "Bin Wang, Xunlong Zou, Geyu Lin, Shuo Sun, Zhuohan Liu, Wenyu Zhang, Zhengyuan Liu, AiTi Aw, Nancy F. Chen",
+    "GitHub_Link": "https://github.com/AudioLLMs/AudioBench",
+    "Paper_Link": "https://arxiv.org/abs/2406.16020",
+    "HF_Link": "",
+    "Demo_Link": "https://huggingface.co/spaces/AudioLLMs/AudioBench-Leaderboard",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": "AudioBench is a universal benchmark designed to evaluate Audio Large Language Models (AudioLLMs). It encompasses 8 distinct tasks and 26 datasets, including 7 newly proposed datasets, targeting speech understanding, audio scene understanding, and voice understanding (paralinguistic)."
+}

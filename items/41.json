@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "FunAudioLLM",
+    "Title": "FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs",
+    "Time": "2024-07",
+    "Affiliation": "Alibaba",
+    "Author": "Authors not specified in the provided information",
+    "GitHub_Link": "https://github.com/FunAudioLLM",
+    "Paper_Link": "https://arxiv.org/pdf/2407.04051v3",
+    "HF_Link": "",
+    "Demo_Link": "https://fun-audio-llm.github.io/",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "Multilingual",
+    "Description": "FunAudioLLM is a foundation model developed by Alibaba for voice understanding and generation, facilitating natural interaction between humans and large language models. It supports multilingual audio input and output, enabling seamless voice-based communication and interaction."
+}

@@ -1,0 +1,18 @@
+{
+    "Category": "Benchmark",
+    "Type": "Benchmark",
+    "Abbreviation": "SD-Eval",
+    "Title": "SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words",
+    "Time": "2024-06",
+    "Affiliation": "CUHK, Bytedance",
+    "Author": "Junyi Ao, Yuancheng Wang, Xiaohai Tian, Dekun Chen, Jun Zhang, Lu Lu, Yuxuan Wang, Haizhou Li, Zhizheng Wu",
+    "GitHub_Link": "https://github.com/amphionspace/SD-Eval",
+    "Paper_Link": "https://arxiv.org/pdf/2406.13340",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": ""
+}

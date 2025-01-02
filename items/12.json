@@ -1,0 +1,18 @@
+{
+    "Category": "Benchmark",
+    "Type": "Benchmark",
+    "Abbreviation": "AIR-Bench",
+    "Title": "AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension",
+    "Time": "2024-05",
+    "Affiliation": "ZJU, Alibaba",
+    "Author": "Qian Yang, Jin Xu, Wenrui Liu, Yunfei Chu, Ziyue Jiang, Xiaohuan Zhou, Yichong Leng, Yuanjun Lv, Zhou Zhao, Chang Zhou, Jingren Zhou",
+    "GitHub_Link": "https://github.com/OFA-Sys/AIR-Bench",
+    "Paper_Link": "https://aclanthology.org/2024.acl-long.109/",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "",
+    "Description": ""
+}

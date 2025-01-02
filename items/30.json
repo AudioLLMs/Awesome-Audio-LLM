@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "Moshi",
+    "Title": "Moshi: a speech-text foundation model for real-time dialogue",
+    "Time": "2024-09",
+    "Affiliation": "Kyutai",
+    "Author": "Alexandre Défossez, Laurent Mazaré, Manu Orsini, Amélie Royer, Patrick Pérez, Hervé Jégou, Edouard Grave, Neil Zeghidour",
+    "GitHub_Link": "https://github.com/kyutai-labs/moshi",
+    "Paper_Link": "https://arxiv.org/pdf/2410.00037",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "",
+    "Description": "Moshi is a speech-text foundation model and full-duplex spoken dialogue framework that addresses limitations in current spoken dialogue systems by integrating speech recognition and generation into a single model. It enables real-time, natural conversations by reducing latency and preserving non-linguistic information such as emotion and accent. Moshi models multiple audio streams in parallel, allowing for seamless handling of overlapping speech and interruptions, thereby enhancing the naturalness of human-computer interactions."
+}

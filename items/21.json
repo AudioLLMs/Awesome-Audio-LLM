@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "SpeechGPT",
+    "Title": "SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities",
+    "Time": "2023-05",
+    "Affiliation": "Fudan University",
+    "Author": "Dong Zhang, Shimin Li, Xin Zhang, Jun Zhan, Pengyu Wang, Yaqian Zhou, Xipeng Qiu",
+    "GitHub_Link": "https://github.com/0nutation/SpeechGPT/tree/main/speechgpt",
+    "Paper_Link": "https://arxiv.org/pdf/2305.11000.pdf",
+    "HF_Link": "",
+    "Demo_Link": "https://0nutation.github.io/SpeechGPT.github.io/",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "",
+    "Description": "SpeechGPT is a multimodal large language model developed by Fudan University, capable of perceiving and generating multimodal content following human instructions. It integrates cross-modal conversational abilities, enabling it to handle tasks involving speech and text seamlessly."
+}

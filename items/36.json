@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "MooER",
+    "Title": "MooER: LLM-based Speech Recognition and Translation Models from Moore Threads",
+    "Time": "2024-08",
+    "Affiliation": "Moore Threads",
+    "Author": "Zhenlin Liang, Junhao Xu, Yi Liu, Yichao Hu, Jian Li, Yajun Zheng, Meng Cai, Hua Wang",
+    "GitHub_Link": "https://github.com/MooreThreads/MooER",
+    "Paper_Link": "https://arxiv.org/pdf/2408.05101",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "Multilingual",
+    "Description": "MooER is a Large Language Model (LLM)-based system developed by Moore Threads for automatic speech recognition (ASR) and automatic speech translation (AST). Trained on a 5,000-hour pseudo-labeled dataset comprising open-source and self-collected speech data, MooER achieves performance comparable to other open-source models trained on significantly larger datasets. Notably, it attains a BLEU score of 25.2 on the Covost2 Zh2en test set, indicating superior translation capabilities. The model architecture integrates an encoder, adapter, and decoder (LLM), optimized with techniques such as DeepSpeed, data loader acceleration, gradient checkpointing, gradient accumulation, and BF16 training. MooER supports multiple languages and is designed to facilitate end-to-end speech interaction, translation, and recognition tasks."
+}

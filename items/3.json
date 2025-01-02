@@ -1,0 +1,18 @@
+{
+    "Category"    : "Safety",
+    "Type"        : "Method",
+    "Abbreviation": "VoiceJailbreak",
+    "Title"       : "Voice Jailbreak Attacks Against GPT-4o",
+    "Time"        : "2024-05",
+    "Affiliation" : "CISPA",
+    "Author"      : "Xinyue Shen, Yixin Wu, Michael Backes, Yang Zhang",
+    "GitHub_Link" : "https://github.com/TrustAIRLab/VoiceJailbreakAttack",
+    "Paper_Link"  : "https://arxiv.org/pdf/2405.19103",
+    "HF_Link"     : "",
+    "Demo_Link"   : "",
+    "Other_Link"  : "",
+    "Audio_Input" : "Yes",
+    "Audio_Output": "No",
+    "Language"    : "Multilingual",
+    "Description" : ""
+}

@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "ASRCompare",
+    "Title": "Comparing Discrete and Continuous Space LLMs for Speech Recognition",
+    "Time": "2024-09",
+    "Affiliation": "Tsinghua University, Tencent AI Lab",
+    "Author": "Yaoxun Xu, Shi-Xiong Zhang, Jianwei Yu, Zhiyong Wu, Dong Yu",
+    "GitHub_Link": "https://github.com/xuyaoxun/ASRCompare",
+    "Paper_Link": "https://arxiv.org/pdf/2409.00800v1",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": "This paper investigates discrete and continuous speech representations in Large Language Model (LLM)-based Automatic Speech Recognition (ASR). It organizes these representations by feature continuity and training approach into four categories: supervised and unsupervised for both discrete and continuous types. The study further classifies LLMs based on their input and autoregressive feedback into continuous and discrete-space models. Using specialized encoders and comparative analysis with a Joint-Training-From-Scratch Language Model (JTFS LM) and pre-trained LLaMA2-7b, it provides a detailed examination of their effectiveness. Notably, the work presents an open-sourced achievement of a state-of-the-art Word Error Rate (WER) of 1.69% on LibriSpeech using a HuBERT encoder, offering valuable insights for advancing ASR and natural language processing research."
+}

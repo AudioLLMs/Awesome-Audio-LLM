@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "Qwen2-Audio",
+    "Title": "Qwen2-Audio Technical Report",
+    "Time": "2024-07",
+    "Affiliation": "Alibaba Group",
+    "Author": "Yunfei Chu, Jin Xu, Qian Yang, Haojie Wei, Xipin Wei, Zhifang Guo, Yichong Leng, Yuanjun Lv, Jinzheng He, Junyang Lin, Chang Zhou, Jingren Zhou",
+    "GitHub_Link": "https://github.com/QwenLM/Qwen2-Audio",
+    "Paper_Link": "https://arxiv.org/pdf/2407.10759",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "Multilingual",
+    "Description": "Qwen2-Audio is a large-scale audio-language model developed by Alibaba Group, capable of accepting various audio signal inputs and performing audio analysis or generating textual responses based on speech instructions. It introduces two distinct audio interaction modes: voice chat, allowing users to engage in voice interactions without text input, and audio analysis, enabling users to provide audio and text instructions for analysis during interaction. The model has been enhanced with instruction-following capabilities and optimized using Direct Preference Optimization (DPO) to improve performance in terms of factuality and adherence to desired behavior. Evaluations indicate that Qwen2-Audio outperforms previous state-of-the-art models in audio-centric instruction-following tasks."
+}

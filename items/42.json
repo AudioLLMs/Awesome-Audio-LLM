@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Research",
+    "Abbreviation": "Decoder-only LLMs for STT",
+    "Title": "Investigating Decoder-only Large Language Models for Speech-to-text Translation",
+    "Time": "2024-07",
+    "Affiliation": "NTU-Taiwan, Meta",
+    "Author": "Authors not specified in the provided information",
+    "GitHub_Link": "",
+    "Paper_Link": "https://arxiv.org/pdf/2407.03169",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "Multilingual",
+    "Description": "This research paper explores the application of decoder-only large language models for speech-to-text translation, analyzing their effectiveness and potential advantages in multilingual translation tasks."
+}

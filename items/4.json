@@ -1,0 +1,18 @@
+{
+    "Category": "Multimodal",
+    "Type": "Model",
+    "Abbreviation": "Macaw-LLM",
+    "Title": "Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration",
+    "Time": "2023-06",
+    "Affiliation": "Tencent",
+    "Author": "Chenyang Lyu, Minghao Wu, Longyue Wang, Xinting Huang, Bingshuai Liu, Zefeng Du, Shuming Shi, Zhaopeng Tu",
+    "GitHub_Link": "https://github.com/lyuchenyang/Macaw-LLM",
+    "Paper_Link": "https://arxiv.org/pdf/2306.09093",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "Multilingual",
+    "Description": ""
+}

@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "Pengi",
+    "Title": "Pengi: An Audio Language Model for Audio Tasks",
+    "Time": "2024-01",
+    "Affiliation": "Microsoft",
+    "Author": "Authors not specified in the provided information",
+    "GitHub_Link": "https://github.com/microsoft/Pengi",
+    "Paper_Link": "https://arxiv.org/pdf/2305.11834.pdf",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "Multilingual",
+    "Description": "Pengi is an audio language model developed by Microsoft, designed to handle various audio tasks by processing and generating audio inputs and outputs across multiple languages."
+}

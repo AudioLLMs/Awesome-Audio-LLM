@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "Mini-Omni",
+    "Title": "Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming",
+    "Time": "2024-08",
+    "Affiliation": "Tsinghua University",
+    "Author": "Zhifei Xie, Changqiao Wu",
+    "GitHub_Link": "https://github.com/gpt-omni/mini-omni",
+    "Paper_Link": "https://arxiv.org/pdf/2408.16725",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "",
+    "Description": "Mini-Omni is an open-source multimodal large language model designed for real-time speech interaction. It features end-to-end speech input and streaming audio output capabilities, enabling seamless voice conversations without the need for separate ASR or TTS systems. The model employs a text-instructed speech generation method and batch-parallel strategies during inference to enhance performance. Additionally, the VoiceAssistant-400K dataset is introduced to fine-tune models optimized for speech output. Mini-Omni aims to facilitate real-time human-computer interaction by integrating speech processing directly into the language model framework."
+}

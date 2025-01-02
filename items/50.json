@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "Qwen-Audio",
+    "Title": "Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models",
+    "Time": "2023-12",
+    "Affiliation": "Alibaba",
+    "Author": "Authors not specified in the provided information",
+    "GitHub_Link": "https://github.com/QwenLM/Qwen-Audio",
+    "Paper_Link": "https://arxiv.org/pdf/2311.07919.pdf",
+    "HF_Link": "",
+    "Demo_Link": "https://qwen-audio.github.io/Qwen-Audio/",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "Multilingual",
+    "Description": "Qwen-Audio is a large-scale audio-language model developed by Alibaba, aiming to advance universal audio understanding by integrating audio and language processing capabilities in a unified framework."
+}

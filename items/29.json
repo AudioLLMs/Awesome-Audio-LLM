@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "DeSTA2",
+    "Title": "Developing Instruction-Following Speech Language Model Without Speech Instruction-Tuning Data",
+    "Time": "2024-09",
+    "Affiliation": "National Taiwan University, NVIDIA",
+    "Author": "Ke-Han Lu, Zhehuai Chen, Szu-Wei Fu, Chao-Han Huck Yang, Jagadeesh Balam, Boris Ginsburg, Yu-Chiang Frank Wang, Hung-yi Lee",
+    "GitHub_Link": "https://github.com/kehanlu/DeSTA2",
+    "Paper_Link": "https://arxiv.org/pdf/2409.20007",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": "DeSTA2 is a speech-language model that integrates pre-trained speech models with large language models to interpret and generate comprehensive natural language descriptions. It enhances the model's speech comprehension capabilities without extensive speech instruction-tuning, thereby preserving the inherent language understanding of the text-based LLM. DeSTA2 demonstrates impressive performance on benchmarks like Dynamic-SUPERB and AIR-Bench-Chat, showcasing its ability to follow complex instructions derived from LLMs, such as specific output formatting and chain-of-thought reasoning."
+}

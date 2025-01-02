@@ -1,0 +1,18 @@
+{
+    "Category": "Multimodal",
+    "Type": "Model",
+    "Abbreviation": "EMOVA",
+    "Title": "EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions",
+    "Time": "2024-09",
+    "Affiliation": "HKUST",
+    "Author": "Kai Chen, Yunhao Gou, Runhui Huang, Zhili Liu, Daxin Tan, Jing Xu, Chunwei Wang, Yi Zhu, Yihan Zeng, Kuo Yang, Dingdong Wang, Kun Xiang, Haoyuan Li, Haoli Bai, Jianhua Han, Xiaohui Li, Weike Jin, Nian Xie, Yu Zhang, James T. Kwok, Hengshuang Zhao, Xiaodan Liang, Dit-Yan Yeung, Xiao Chen, Zhenguo Li, Wei Zhang, Qun Liu, Jun Yao, Lanqing Hong, Lu Hou, Hang Xu",
+    "GitHub_Link": "",
+    "Paper_Link": "https://arxiv.org/pdf/2409.18042",
+    "HF_Link": "",
+    "Demo_Link": "https://emova-ollm.github.io/",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "English",
+    "Description": ""
+}

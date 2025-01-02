@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "GAMA",
+    "Title": "GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities",
+    "Time": "2024-07",
+    "Affiliation": "University of Maryland, College Park",
+    "Author": "Sreyan Ghosh, Sonal Kumar, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha",
+    "GitHub_Link": "https://github.com/Sreyan88/GAMA",
+    "Paper_Link": "https://arxiv.org/abs/2406.11768",
+    "HF_Link": "",
+    "Demo_Link": "https://sreyan88.github.io/gamaaudio/",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": "GAMA is a General-purpose Large Audio-Language Model (LALM) designed to enhance audio understanding and complex reasoning abilities. It integrates a Large Language Model (LLM) with multiple types of audio representations, including features from a custom Audio Q-Former and a multi-layer aggregator that processes features from various layers of an audio encoder. Fine-tuned on a large-scale audio-language dataset, GAMA is equipped with advanced audio understanding capabilities. Additionally, it employs CompA-R, a synthetically generated instruction-tuning dataset, to endow the model with complex reasoning abilities, particularly for open-ended audio question-answering tasks. GAMA outperforms existing LALMs across diverse audio understanding tasks, demonstrating superior performance in both automated and expert human evaluations."
+}

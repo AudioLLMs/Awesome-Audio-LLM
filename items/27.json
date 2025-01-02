@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "DiVA",
+    "Title": "Distilling an End-to-End Voice Assistant Without Instruction Training Data",
+    "Time": "2024-10",
+    "Affiliation": "Georgia Tech, Stanford",
+    "Author": "William Held, Ella Li, Michael Ryan, Weiyan Shi, Yanzhe Zhang, Diyi Yang",
+    "GitHub_Link": "https://github.com/diva-audio",
+    "Paper_Link": "https://arxiv.org/pdf/2410.02678",
+    "HF_Link": "",
+    "Demo_Link": "https://diva-audio.github.io/",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "",
+    "Description": "DiVA (Distilled Voice Assistant) is an end-to-end voice assistant model that integrates speech and text processing without relying on instruction training data. By utilizing self-supervision from a text-only large language model's responses to transcripts, DiVA generalizes to tasks such as spoken question answering, classification, and translation. Notably, it achieves a 72% user preference win rate compared to state-of-the-art models like Qwen 2 Audio, despite using significantly less training compute."
+}

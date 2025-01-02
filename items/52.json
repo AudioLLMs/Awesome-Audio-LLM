@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "LLaSM",
+    "Title": "LLaSM: Large Language and Speech Model",
+    "Time": "2023-09",
+    "Affiliation": "LinkSoul.AI",
+    "Author": "Authors not specified in the provided information",
+    "GitHub_Link": "https://github.com/LinkSoul-AI/LLaSM",
+    "Paper_Link": "https://arxiv.org/pdf/2308.15930.pdf",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "Bilingual (Chinese and English)",
+    "Description": "LLaSM is a large language and speech model developed by LinkSoul.AI, supporting bilingual (Chinese and English) speech-text multimodal dialogues. It offers convenient speech input, enhancing user experience by avoiding the complexities and potential errors associated with ASR-based solutions."
+}

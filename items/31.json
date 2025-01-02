@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "LLaMA-Omni",
+    "Title": "LLaMA-Omni: Seamless Speech Interaction with Large Language Models",
+    "Time": "2024-09",
+    "Affiliation": "Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS)",
+    "Author": "Qingkai Fang, Shoutao Guo, Yan Zhou, Zhengrui Ma, Shaolei Zhang, Yang Feng",
+    "GitHub_Link": "https://github.com/ictnlp/llama-omni",
+    "Paper_Link": "https://arxiv.org/pdf/2409.06666v1",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "",
+    "Description": "LLaMA-Omni is a low-latency, high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct. It enables seamless speech interactions with large language models, simultaneously generating both text and speech responses based on speech instructions. The model integrates a pretrained speech encoder, a speech adaptor, an LLM, and a streaming speech decoder, eliminating the need for intermediate speech transcription. Experimental results demonstrate that LLaMA-Omni provides superior responses in both content and style, with response latency as low as 226ms. Training LLaMA-Omni requires less than 3 days on 4 GPUs, facilitating efficient development of speech-language models."
+}
