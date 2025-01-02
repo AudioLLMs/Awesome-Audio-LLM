@@ -12,6 +12,7 @@
 ### Abbreviations with Links
 - [MERaLiON-AudioLLM](https://arxiv.org/abs/2412.09818)
 - [ADU-Bench](https://arxiv.org/abs/2412.05167)
+- [Dynamic-SUPERB Phase-2](https://arxiv.org/pdf/2411.05361)
 - [Taiwanese AudioLLM](https://arxiv.org/pdf/2411.07111)
 - [WavChat-Survey](https://arxiv.org/abs/2411.13577)
 - [SpeechLLM-Survey](https://arxiv.org/pdf/2410.18908v2)
@@ -272,6 +273,12 @@
   - **Benchmarking Open-ended Audio Dialogue Understanding for Large Audio-Language Models**
   - **Author(s):** Kuofeng Gao, Shu-Tao Xia, Ke Xu, Philip Torr, Jindong Gu
   - [Paper](https://arxiv.org/abs/2412.05167)
+
+- `【2024-11】-【Dynamic-SUPERB Phase-2】-【National Taiwan University, University of Texas at Austin, Carnegie Mellon University, Nanyang Technological University, Toyota Technological Institute of Chicago, Université du Québec (INRS-EMT), NVIDIA, ASAPP, Renmin University of China】-【Type: Evaluation Framework】`
+  - **Dynamic-SUPERB Phase-2: A Collaboratively Expanding Benchmark for Measuring the Capabilities of Spoken Language Models with 180 Tasks**
+  - **Author(s):** Chien-yu Huang, Wei-Chih Chen, Shu-wen Yang, Andy T. Liu, Chen-An Li, Yu-Xiang Lin, Wei-Cheng Tseng, Anuj Diwan, Yi-Jen Shih, Jiatong Shi, William Chen, Xuanjun Chen, Chi-Yuan Hsiao, Puyuan Peng, Shih-Heng Wang, Chun-Yi Kuan, Haibin Wu, Siddhant Arora, Kai-Wei Chang, Yifan Peng, Roshan Sharma, Shinji Watanabe, Bhiksha Ramakrishnan, Shady Shehata, Hung-yi Lee
+  - [![GitHub stars](https://img.shields.io/github/stars/dynamic-superb/dynamic-superb?style=social)](https://github.com/dynamic-superb/dynamic-superb)
+  - [Paper](https://arxiv.org/pdf/2411.05361) / [Other Link](https://dynamic-superb.github.io/)
 
 - `【2024-10】-【VoiceBench】-【National University of Singapore】-【Type: Benchmark】`
   - **VoiceBench: Benchmarking LLM-Based Voice Assistants**
