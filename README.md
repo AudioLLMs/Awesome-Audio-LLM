@@ -1,4 +1,11 @@
 ### 🌟🌟🌟 Find interesting work or want your work to be on-board? Raise an Issue or Pull Requests! :)
+## Contributors
+We thank the following contributors for their valuable contributions!
+[zwenyu](https://github.com/zwenyu), 
+[Yuan-ManX](https://github.com/Yuan-ManX), 
+[chaoweihuang](https://github.com/chaoweihuang), 
+[Liu-Tianchi](https://github.com/Liu-Tianchi), 
+[Sakshi113](https://github.com/Sakshi113), 
 ## Table of Contents
 - [Model and Methods](#model-and-methods)
 - [Benchmark](#benchmark)
@@ -22,6 +29,7 @@
 - [SPIRIT LM](https://arxiv.org/abs/2402.05755)
 - [SpeechEmotionLlama](https://arxiv.org/pdf/2410.01162)
 - [SpeechLM-Survey](https://arxiv.org/pdf/2410.03751)
+- [MMAU](https://arxiv.org/pdf/2410.19168)
 - [SALMon](https://arxiv.org/abs/2409.07437)
 - [EMOVA](https://arxiv.org/pdf/2409.18042)
 - [Moshi](https://arxiv.org/pdf/2410.00037)
@@ -285,6 +293,12 @@
   - **Author(s):** Yiming Chen, Xianghu Yue, Chen Zhang, Xiaoxue Gao, Robby T. Tan, Haizhou Li
   - [![GitHub stars](https://img.shields.io/github/stars/MatthewCYM/VoiceBench?style=social)](https://github.com/MatthewCYM/VoiceBench)
   - [Paper](https://arxiv.org/pdf/2410.17196)
+
+- `【2024-10】-【MMAU】-【University of Maryland】-【Type: Benchmark】`
+  - **MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark**
+  - **Author(s):** S Sakshi, Utkarsh Tyagi, Sonal Kumar, Ashish Seth, Ramaneswaran Selvakumar, Oriol Nieto, Ramani Duraiswami, Sreyan Ghosh, Dinesh Manocha
+  - [![GitHub stars](https://img.shields.io/github/stars/tree/main?style=social)](https://github.com/Sakshi113/mmau/tree/main)
+  - [Paper](https://arxiv.org/pdf/2410.19168) / [Other Link](https://sakshi113.github.io/mmau_homepage/)
 
 - `【2024-09】-【SALMon】-【Hebrew University of Jerusalem】-【Type: Benchmark】`
   - **A Suite for Acoustic Language Model Evaluation**

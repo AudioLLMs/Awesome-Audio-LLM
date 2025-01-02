@@ -1,0 +1,18 @@
+{
+    "Category"    : "Benchmark",
+    "Type"        : "Benchmark",
+    "Abbreviation": "MMAU",
+    "Title"       : "MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark",
+    "Time"        : "2024-10",
+    "Affiliation" : "University of Maryland",
+    "Author"      : "S Sakshi, Utkarsh Tyagi, Sonal Kumar, Ashish Seth, Ramaneswaran Selvakumar, Oriol Nieto, Ramani Duraiswami, Sreyan Ghosh, Dinesh Manocha",
+    "GitHub_Link" : "https://github.com/Sakshi113/mmau/tree/main",
+    "Paper_Link"  : "https://arxiv.org/pdf/2410.19168",
+    "HF_Link"     : "",
+    "Demo_Link"   : "",
+    "Other_Link"  : "https://sakshi113.github.io/mmau_homepage/",
+    "Audio_Input" : "",
+    "Audio_Output": "",
+    "Language"    : "English",
+    "Description" : ""
+}

@@ -93,6 +93,20 @@ for category in categories:
 # Generate README.md content
 readme_lines = []
 readme_lines.append("### 🌟🌟🌟 Find interesting work or want your work to be on-board? Raise an Issue or Pull Requests! :)")
+# Contributors
+readme_lines.append("## Contributors")
+readme_lines.append("We thank the following contributors for their valuable contributions!")
+readme_lines.append("[zwenyu](https://github.com/zwenyu), ")
+readme_lines.append("[Yuan-ManX](https://github.com/Yuan-ManX), ")
+readme_lines.append("[chaoweihuang](https://github.com/chaoweihuang), ")
+readme_lines.append("[Liu-Tianchi](https://github.com/Liu-Tianchi), ")
+readme_lines.append("[Sakshi113](https://github.com/Sakshi113), ")
+
+
+
+
+
+# ================== Add the Table of Contents ==================
 readme_lines.append("## Table of Contents")
 for category in categories:
     anchor = category.lower().replace(" ", "-")
@@ -161,5 +175,15 @@ for category, cards in categories.items():
 # Write to README.md
 with open("README.md", "w") as readme_file:
     readme_file.write("\n".join(readme_lines))
+
+# Update with contributors
+readme_lines.append("## Contributors")
+readme_lines.append("We thank the following contributors for their valuable contributions!")
+readme_lines.append("")
+readme_lines.append("<!-- Contributors list -->")
+
+readme_lines.append("<!-- Contributors list -->")
+
+
 
 print("README.md has been generated.")
