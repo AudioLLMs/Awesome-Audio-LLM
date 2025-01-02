@@ -29,7 +29,7 @@ for card, time in zip(model_cards, times):
 grouped_cards = dict(sorted(grouped_cards.items(), reverse=True))
 
 # Set up the plot
-fig, ax = plt.subplots(figsize=(7, len(grouped_cards) * 2))  # Reduced width of the figure
+fig, ax = plt.subplots(figsize=(8, len(grouped_cards) * 2))  # Reduced width of the figure
 
 # Plot the timeline with items listed vertically
 y_pos = 0
@@ -101,6 +101,27 @@ readme_lines.append("")
 
 readme_lines.append('<img src="model_release_timeline_vertical_listed.png" alt="Timeline Visualization" width="600">')  # Embed smaller image
 readme_lines.append("")
+
+# Add a list of abbreviations with links
+readme_lines.append("### Abbreviations with Links")
+model_cards.sort(key=lambda card: datetime.strptime(card["Time"], "%Y-%m"), reverse=True)
+
+for card in model_cards:
+    abbreviation = card["Abbreviation"]
+    paper_link = card.get("Paper_Link", "")
+    hf_link = card.get("HF_Link", "")
+    demo_link = card.get("Demo_Link", "")
+    github_link = card.get("GitHub_Link", "")
+    other_link = card.get("Other_Link", "")
+
+    # Create a link (default to the paper link, then other available links)
+    link = paper_link or hf_link or demo_link or github_link or other_link
+    if link:
+        readme_lines.append(f"- [{abbreviation}]({link})")
+    else:
+        readme_lines.append(f"- {abbreviation} (No link available)")
+
+readme_lines.append("")  # Add spacing before categories
 
 for category, cards in categories.items():
     readme_lines.append(f"## {category}\n")

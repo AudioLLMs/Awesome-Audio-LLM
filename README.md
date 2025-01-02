@@ -9,6 +9,60 @@
 
 <img src="model_release_timeline_vertical_listed.png" alt="Timeline Visualization" width="600">
 
+### Abbreviations with Links
+- [MERaLiON-AudioLLM](https://arxiv.org/abs/2412.09818)
+- [ADU-Bench](https://arxiv.org/abs/2412.05167)
+- [Taiwanese AudioLLM](https://arxiv.org/pdf/2411.07111)
+- [WavChat-Survey](https://arxiv.org/abs/2411.13577)
+- [SpeechLLM-Survey](https://arxiv.org/pdf/2410.18908v2)
+- [VoiceBench](https://arxiv.org/pdf/2410.17196)
+- [SPIRIT LM](https://arxiv.org/pdf/2402.05755)
+- [DiVA](https://arxiv.org/pdf/2410.02678)
+- [SPIRIT LM](https://arxiv.org/abs/2402.05755)
+- [SpeechEmotionLlama](https://arxiv.org/pdf/2410.01162)
+- [SpeechLM-Survey](https://arxiv.org/pdf/2410.03751)
+- [SALMon](https://arxiv.org/abs/2409.07437)
+- [EMOVA](https://arxiv.org/pdf/2409.18042)
+- [Moshi](https://arxiv.org/pdf/2410.00037)
+- [LLaMA-Omni](https://arxiv.org/pdf/2409.06666v1)
+- [Ultravox](https://github.com/fixie-ai/ultravox)
+- [MoWE-Audio](https://arxiv.org/pdf/2409.06635)
+- [AudioBERT](https://arxiv.org/pdf/2409.08199)
+- [DeSTA2](https://arxiv.org/pdf/2409.20007)
+- [ASRCompare](https://arxiv.org/pdf/2409.00800v1)
+- [MooER](https://arxiv.org/pdf/2408.05101)
+- [MuChoMusic](https://arxiv.org/abs/2408.01337)
+- [Mini-Omni](https://arxiv.org/pdf/2408.16725)
+- [FunAudioLLM](https://arxiv.org/pdf/2407.04051v3)
+- [Qwen2-Audio](https://arxiv.org/pdf/2407.10759)
+- [GAMA](https://arxiv.org/abs/2406.11768)
+- [LLaST](https://arxiv.org/pdf/2407.15415)
+- [Decoder-only LLMs for STT](https://arxiv.org/pdf/2407.03169)
+- [AudioEntailment](https://arxiv.org/pdf/2407.18062)
+- [CompA](https://arxiv.org/abs/2310.08753)
+- [DeSTA](https://arxiv.org/abs/2406.18871)
+- [Audio Hallucination](https://arxiv.org/pdf/2406.08402)
+- [SD-Eval](https://arxiv.org/pdf/2406.13340)
+- [Speech ReaLLM](https://arxiv.org/pdf/2406.09569)
+- [AudioBench](https://arxiv.org/abs/2406.16020)
+- [AIR-Bench](https://aclanthology.org/2024.acl-long.109/)
+- [Audio Flamingo](https://arxiv.org/abs/2402.01831)
+- [VoiceJailbreak](https://arxiv.org/pdf/2405.19103)
+- [SALMONN](https://arxiv.org/pdf/2310.13289.pdf)
+- [WavLLM](https://arxiv.org/pdf/2404.00656)
+- [SLAM-LLM](https://arxiv.org/pdf/2402.08846)
+- [Pengi](https://arxiv.org/pdf/2305.11834.pdf)
+- [Qwen-Audio](https://arxiv.org/pdf/2311.07919.pdf)
+- [CoDi-2](https://arxiv.org/pdf/2311.18775)
+- [UniAudio](https://arxiv.org/abs/2310.00704)
+- [Dynamic-SUPERB](https://arxiv.org/abs/2309.09510)
+- [LLaSM](https://arxiv.org/pdf/2308.15930.pdf)
+- [Segment-level Q-Former](https://arxiv.org/pdf/2309.13963)
+- [Prompting LLMs with Speech Recognition](https://arxiv.org/pdf/2307.11795)
+- [Macaw-LLM](https://arxiv.org/pdf/2306.09093)
+- [SpeechGPT](https://arxiv.org/pdf/2305.11000.pdf)
+- [AudioGPT](https://arxiv.org/pdf/2304.12995.pdf)
+
 ## Model and Methods
 
 - `【2024-12】-【MERaLiON-AudioLLM】-【I2R, A*STAR, Singapore】-【Type: Model】`
@@ -16,7 +70,7 @@
   - **Author(s):** Yingxu He, Zhuohan Liu, Shuo Sun, Bin Wang, Wenyu Zhang, Xunlong Zou, Nancy F. Chen, Ai Ti Aw
   - [Paper](https://arxiv.org/abs/2412.09818) / [Hugging Face Model](https://huggingface.co/MERaLiON/MERaLiON-AudioLLM-Whisper-SEA-LION) / [Demo](https://huggingface.co/spaces/MERaLiON/MERaLiON-AudioLLM)
 
-- `【2024-11】-【】-【National Taiwan University】-【Type: Model】`
+- `【2024-11】-【Taiwanese AudioLLM】-【National Taiwan University】-【Type: Model】`
   - **Building a Taiwanese Mandarin Spoken Language Model: A First Attempt**
   - **Author(s):** Chih-Kai Yang, Yu-Kuan Fu, Chen-An Li, Yi-Cheng Lin, Yu-Xiang Lin, Wei-Chih Chen, Ho Lam Chung, Chun-Yi Kuan, Wei-Ping Huang, Ke-Han Lu, Tzu-Quan Lin, Hsiu-Hsuan Wang, En-Pei Hu, Chan-Jan Hsu, Liang-Hsuan Tseng, I-Hsiang Chiu, Ulin Sanga, Xuanjun Chen, Po-chun Hsu, Shu-wen Yang, Hung-yi Lee
   - [Paper](https://arxiv.org/pdf/2411.07111)
