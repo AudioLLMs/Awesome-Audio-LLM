@@ -1,0 +1,18 @@
+{
+    "Category"    : "Safety",
+    "Type"        : "Safety",
+    "Abbreviation": "CodecFake",
+    "Title"       : "CodecFake: Enhancing Anti-Spoofing Models Against Deepfake Audios from Codec-Based Speech Synthesis Systems",
+    "Time"        : "2024-06",
+    "Affiliation" : "National Taiwan University",
+    "Author"      : "Haibin Wu, Yuan Tseng, Hung-yi Lee",
+    "GitHub_Link" : "https://github.com/roger-tseng/CodecFake",
+    "Paper_Link"  : "https://arxiv.org/abs/2406.07237",
+    "HF_Link"     : "",
+    "Demo_Link"   : "",
+    "Other_Link"  : "https://codecfake.github.io/",
+    "Audio_Input" : "",
+    "Audio_Output": "",
+    "Language"    : "English",
+    "Description" : ""
+}
