@@ -6,6 +6,7 @@ We thank the following contributors for their valuable contributions!
 [chaoweihuang](https://github.com/chaoweihuang), 
 [Liu-Tianchi](https://github.com/Liu-Tianchi), 
 [Sakshi113](https://github.com/Sakshi113), 
+[hbwu-ntu](https://github.com/hbwu-ntu), 
 ## Table of Contents
 - [Model and Methods](#model-and-methods)
 - [Benchmark](#benchmark)
@@ -51,6 +52,7 @@ We thank the following contributors for their valuable contributions!
 - [CompA](https://arxiv.org/abs/2310.08753)
 - [DeSTA](https://arxiv.org/abs/2406.18871)
 - [Audio Hallucination](https://arxiv.org/pdf/2406.08402)
+- [CodecFake](https://arxiv.org/abs/2406.07237)
 - [SD-Eval](https://arxiv.org/pdf/2406.13340)
 - [Speech ReaLLM](https://arxiv.org/pdf/2406.09569)
 - [AudioBench](https://arxiv.org/abs/2406.16020)
@@ -59,6 +61,7 @@ We thank the following contributors for their valuable contributions!
 - [VoiceJailbreak](https://arxiv.org/pdf/2405.19103)
 - [SALMONN](https://arxiv.org/pdf/2310.13289.pdf)
 - [WavLLM](https://arxiv.org/pdf/2404.00656)
+- [AudioLM-Survey](https://arxiv.org/abs/2402.13236)
 - [SLAM-LLM](https://arxiv.org/pdf/2402.08846)
 - [Pengi](https://arxiv.org/pdf/2305.11834.pdf)
 - [Qwen-Audio](https://arxiv.org/pdf/2311.07919.pdf)
@@ -378,6 +381,11 @@ We thank the following contributors for their valuable contributions!
   - **Author(s):** Wenqian Cui, Dianzhi Yu, Xiaoqi Jiao, Ziqiao Meng, Guangyan Zhang, Qichao Wang, Yiwen Guo, Irwin King
   - [Paper](https://arxiv.org/pdf/2410.03751)
 
+- `【2024-02】-【AudioLM-Survey】-【National Taiwan University, MIT】-【Type: Survey】`
+  - **Towards audio language modeling -- an overview**
+  - **Author(s):** Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, Kai-wei Chang, Ho-Lam Chung, Alexander H. Liu, Hung-yi Lee
+  - [Paper](https://arxiv.org/abs/2402.13236)
+
 ## Study
 
 - `【2024-06】-【Audio Hallucination】-【NTU-Taiwan】-【Type: Research】`
@@ -387,6 +395,12 @@ We thank the following contributors for their valuable contributions!
   - [Paper](https://arxiv.org/pdf/2406.08402)
 
 ## Safety
+
+- `【2024-06】-【CodecFake】-【National Taiwan University】-【Type: Safety】`
+  - **CodecFake: Enhancing Anti-Spoofing Models Against Deepfake Audios from Codec-Based Speech Synthesis Systems**
+  - **Author(s):** Haibin Wu, Yuan Tseng, Hung-yi Lee
+  - [![GitHub stars](https://img.shields.io/github/stars/roger-tseng/CodecFake?style=social)](https://github.com/roger-tseng/CodecFake)
+  - [Paper](https://arxiv.org/abs/2406.07237) / [Other Link](https://codecfake.github.io/)
 
 - `【2024-05】-【VoiceJailbreak】-【CISPA】-【Type: Method】`
   - **Voice Jailbreak Attacks Against GPT-4o**
