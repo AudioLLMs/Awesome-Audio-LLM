@@ -1,0 +1,18 @@
+{
+    "Category"    : "Survey",
+    "Type"        : "Survey",
+    "Abbreviation": "AudioLM-Survey",
+    "Title"       : "Towards audio language modeling -- an overview",
+    "Time"        : "2024-02",
+    "Affiliation" : "National Taiwan University, MIT",
+    "Author"      : "Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, Kai-wei Chang, Ho-Lam Chung, Alexander H. Liu, Hung-yi Lee",
+    "GitHub_Link" : "",
+    "Paper_Link"  : "https://arxiv.org/abs/2402.13236",
+    "HF_Link"     : "",
+    "Demo_Link"   : "",
+    "Other_Link"  : "",
+    "Audio_Input" : "No",
+    "Audio_Output": "No",
+    "Language"    : "",
+    "Description" : ""
+}
