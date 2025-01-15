@@ -14,10 +14,12 @@ We thank the following contributors for their valuable contributions!
 - [Survey](#survey)
 - [Study](#study)
 - [Safety](#safety)
+- [Chatbot](#chatbot)
 
 <img src="model_release_timeline_vertical_listed.png" alt="Timeline Visualization" width="600">
 
 ### Abbreviations with Links
+- [MinMo](https://arxiv.org/abs/2501.06282)
 - [MERaLiON-AudioLLM](https://arxiv.org/abs/2412.09818)
 - [ADU-Bench](https://arxiv.org/abs/2412.05167)
 - [Dynamic-SUPERB Phase-2](https://arxiv.org/pdf/2411.05361)
@@ -407,3 +409,10 @@ We thank the following contributors for their valuable contributions!
   - **Author(s):** Xinyue Shen, Yixin Wu, Michael Backes, Yang Zhang
   - [![GitHub stars](https://img.shields.io/github/stars/TrustAIRLab/VoiceJailbreakAttack?style=social)](https://github.com/TrustAIRLab/VoiceJailbreakAttack)
   - [Paper](https://arxiv.org/pdf/2405.19103)
+
+## Chatbot
+
+- `【2025-01】-【MinMo】-【FunAudioLLM Team, Tongyi Lab, Alibaba Group】-【Type: Multimodal Large Language Model】`
+  - **MinMo: A Multimodal Large Language Model for Seamless Voice Interaction**
+  - **Author(s):** Qian Chen, Yafeng Chen, Yanni Chen, Mengzhe Chen, Yingda Chen, Chong Deng, Zhihao Du, Ruize Gao, Changfeng Gao, Zhifu Gao, Yabin Li, Xiang Lv, Jiaqing Liu, Haoneng Luo, Bin Ma, Chongjia Ni, Xian Shi, Jialong Tang, Hui Wang, Hao Wang, Wen Wang, Yuxuan Wang, Yunlan Xu, Fan Yu, Zhijie Yan, Yexin Yang, Baosong Yang, Xian Yang, Guanrou Yang, Tianyu Zhao, Qinglin Zhang, Shiliang Zhang, Nan Zhao, Pei Zhang, Chong Zhang, Jinren Zhou
+  - [Paper](https://arxiv.org/abs/2501.06282) / [Other Link](https://funaudiollm.github.io/minmo)

@@ -1,0 +1,19 @@
+{
+    "Category": "Chatbot",
+    "Type": "Multimodal Large Language Model",
+    "Abbreviation": "MinMo",
+    "Title": "MinMo: A Multimodal Large Language Model for Seamless Voice Interaction",
+    "Time": "2025-01",
+    "Affiliation": "FunAudioLLM Team, Tongyi Lab, Alibaba Group",
+    "Author": "Qian Chen, Yafeng Chen, Yanni Chen, Mengzhe Chen, Yingda Chen, Chong Deng, Zhihao Du, Ruize Gao, Changfeng Gao, Zhifu Gao, Yabin Li, Xiang Lv, Jiaqing Liu, Haoneng Luo, Bin Ma, Chongjia Ni, Xian Shi, Jialong Tang, Hui Wang, Hao Wang, Wen Wang, Yuxuan Wang, Yunlan Xu, Fan Yu, Zhijie Yan, Yexin Yang, Baosong Yang, Xian Yang, Guanrou Yang, Tianyu Zhao, Qinglin Zhang, Shiliang Zhang, Nan Zhao, Pei Zhang, Chong Zhang, Jinren Zhou",
+    "GitHub_Link": "",
+    "Paper_Link": "https://arxiv.org/abs/2501.06282",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "https://funaudiollm.github.io/minmo",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "Multilingual",
+    "Description": "MinMo is a multimodal large language model with approximately 8 billion parameters, designed for seamless voice interaction. It facilitates real-time, natural, and human-like voice conversations by integrating speech and text processing. Trained on 1.4 million hours of diverse speech data, MinMo supports full-duplex communication, enabling simultaneous two-way interactions between the user and the system. It also offers enhanced instruction-following capabilities, allowing control over speech generation with nuances such as emotions, dialects, speaking rates, and voice mimicry. The model achieves state-of-the-art performance across various benchmarks for voice comprehension and generation while maintaining the capabilities of text-based large language models."
+  }
+  
