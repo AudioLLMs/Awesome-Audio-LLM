@@ -1,0 +1,18 @@
+{
+    "Category": "Benchmark",
+    "Type": "Interactive Benchmarking Tool",
+    "Abbreviation": "TalkArena",
+    "Title": "TalkArena: Interactive Evaluation of Large Audio Models",
+    "Time": "2024-12",
+    "Affiliation": "Stanford University, SCB 10X",
+    "Author": "Ella Minzhi Li*, Will Held*, Michael J. Ryan, Kunat Pipatanakul, Potsawee Manakul, Hao Zhu, Diyi Yang (*Equal Contribution)",
+    "GitHub_Link": "https://github.com/SALT-NLP/talk-arena",
+    "Paper_Link": "",
+    "HF_Link": "",
+    "Demo_Link": "https://talkarena.org/",
+    "Other_Link": "https://talkarena.org/blog",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "English",
+    "Description": "TalkArena is an interactive platform designed to benchmark Large Audio Models (AudioLLMs) through real-world user interactions. Similar to Chatbot Arena for text-based models, TalkArena allows users to input audio prompts and receive text-based responses from various state-of-the-art models, facilitating pairwise comparisons and user preference evaluations. The platform supports models such as GPT-4o, Gemini, Qwen2-Audio, DiVA-Llama 3, and Typhoon-Audio, enabling comprehensive assessments of their performance in natural, conversational settings."
+  }

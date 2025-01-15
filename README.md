@@ -7,6 +7,7 @@ We thank the following contributors for their valuable contributions!
 [Liu-Tianchi](https://github.com/Liu-Tianchi), 
 [Sakshi113](https://github.com/Sakshi113), 
 [hbwu-ntu](https://github.com/hbwu-ntu), 
+[potsawee](https://github.com/potsawee), 
 ## Table of Contents
 - [Model and Methods](#model-and-methods)
 - [Benchmark](#benchmark)
@@ -20,6 +21,8 @@ We thank the following contributors for their valuable contributions!
 
 ### Abbreviations with Links
 - [MinMo](https://arxiv.org/abs/2501.06282)
+- [TalkArena](https://talkarena.org/)
+- [Typhoon2-Audio](https://arxiv.org/abs/2412.13702)
 - [MERaLiON-AudioLLM](https://arxiv.org/abs/2412.09818)
 - [ADU-Bench](https://arxiv.org/abs/2412.05167)
 - [Dynamic-SUPERB Phase-2](https://arxiv.org/pdf/2411.05361)
@@ -44,6 +47,7 @@ We thank the following contributors for their valuable contributions!
 - [ASRCompare](https://arxiv.org/pdf/2409.00800v1)
 - [MooER](https://arxiv.org/pdf/2408.05101)
 - [MuChoMusic](https://arxiv.org/abs/2408.01337)
+- [Typhoon-Audio](https://arxiv.org/abs/2409.10999)
 - [Mini-Omni](https://arxiv.org/pdf/2408.16725)
 - [FunAudioLLM](https://arxiv.org/pdf/2407.04051v3)
 - [Qwen2-Audio](https://arxiv.org/pdf/2407.10759)
@@ -78,6 +82,12 @@ We thank the following contributors for their valuable contributions!
 - [AudioGPT](https://arxiv.org/pdf/2304.12995.pdf)
 
 ## Model and Methods
+
+- `【2024-12】-【Typhoon2-Audio】-【SCB 10X】-【Type: Multimodal Language Model】`
+  - **Typhoon2-Audio: A Thai Multimodal Language Model for Speech and Text Processing**
+  - **Author(s):** Kunat Pipatanakul, Potsawee Manakul, Natapong Nitarach, Warit Sirichotedumrong, Surapon Nonesung, Teetouch Jaknamon, Parinthapat Pengpun, Pittawat Taveekitworachai, Adisai Na-Thalang, Sittipong Sripaisarnmongkol, Krisanapong Jirayoot, Kasima Tharnpipitchai
+  - [![GitHub stars](https://img.shields.io/github/stars/typhoon2-audio/?style=social)](https://github.com/scb-10x/typhoon2-audio/)
+  - [Paper](https://arxiv.org/abs/2412.13702) / [Hugging Face Model](https://huggingface.co/scb10x/llama3.1-typhoon2-audio-8b-instruct) / [Demo](https://audio.opentyphoon.ai/)
 
 - `【2024-12】-【MERaLiON-AudioLLM】-【I2R, A*STAR, Singapore】-【Type: Model】`
   - **MERaLiON-AudioLLM: Bridging Audio and Language with Large Language Models**
@@ -157,6 +167,11 @@ We thank the following contributors for their valuable contributions!
   - **Author(s):** Zhenlin Liang, Junhao Xu, Yi Liu, Yichao Hu, Jian Li, Yajun Zheng, Meng Cai, Hua Wang
   - [![GitHub stars](https://img.shields.io/github/stars/MooreThreads/MooER?style=social)](https://github.com/MooreThreads/MooER)
   - [Paper](https://arxiv.org/pdf/2408.05101)
+
+- `【2024-08】-【Typhoon-Audio】-【SCB 10X】-【Type: Multimodal Language Model】`
+  - **Typhoon-Audio: Enhancing Low-Resource Language and Instruction Following Capabilities of Audio Language Models**
+  - **Author(s):** Potsawee Manakul, Guangzhi Sun, Warit Sirichotedumrong, Kasima Tharnpipitchai, Kunat Pipatanakul
+  - [Paper](https://arxiv.org/abs/2409.10999) / [Hugging Face Model](https://huggingface.co/scb10x/llama-3-typhoon-v1.5-8b-audio-preview)
 
 - `【2024-08】-【Mini-Omni】-【Tsinghua University】-【Type: Model】`
   - **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**
@@ -281,6 +296,12 @@ We thank the following contributors for their valuable contributions!
   - [Paper](https://arxiv.org/pdf/2304.12995.pdf)
 
 ## Benchmark
+
+- `【2024-12】-【TalkArena】-【Stanford University, SCB 10X】-【Type: Interactive Benchmarking Tool】`
+  - **TalkArena: Interactive Evaluation of Large Audio Models**
+  - **Author(s):** Ella Minzhi Li*, Will Held*, Michael J. Ryan, Kunat Pipatanakul, Potsawee Manakul, Hao Zhu, Diyi Yang (*Equal Contribution)
+  - [![GitHub stars](https://img.shields.io/github/stars/SALT-NLP/talk-arena?style=social)](https://github.com/SALT-NLP/talk-arena)
+  - [Demo](https://talkarena.org/) / [Other Link](https://talkarena.org/blog)
 
 - `【2024-12】-【ADU-Bench】-【Tsinghua University, University of Oxford】-【Type: Benchmark】`
   - **Benchmarking Open-ended Audio Dialogue Understanding for Large Audio-Language Models**

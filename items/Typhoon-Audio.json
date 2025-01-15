@@ -1,0 +1,18 @@
+{
+  "Category": "Model and Methods",
+  "Type": "Multimodal Language Model",
+  "Abbreviation": "Typhoon-Audio",
+  "Title": "Typhoon-Audio: Enhancing Low-Resource Language and Instruction Following Capabilities of Audio Language Models",
+  "Time": "2024-08",
+  "Affiliation": "SCB 10X",
+  "Author": "Potsawee Manakul, Guangzhi Sun, Warit Sirichotedumrong, Kasima Tharnpipitchai, Kunat Pipatanakul",
+  "GitHub_Link": "",
+  "Paper_Link": "https://arxiv.org/abs/2409.10999",
+  "HF_Link": "https://huggingface.co/scb10x/llama-3-typhoon-v1.5-8b-audio-preview",
+  "Demo_Link": "",
+  "Other_Link": "",
+  "Audio_Input": "Yes",
+  "Audio_Output": "No",
+  "Language": "Thai, English",
+  "Description": "Typhoon-Audio is a multimodal language model supporting speech/audio input and text output. Based on the SALMONN architecture, it is trained on curated datasets to enhance general instruction-following abilities and performance in the Thai language, addressing challenges in low-resource language processing."
+}

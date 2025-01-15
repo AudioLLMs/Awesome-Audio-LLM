@@ -1,0 +1,18 @@
+{
+  "Category": "Model and Methods",
+  "Type": "Multimodal Language Model",
+  "Abbreviation": "Typhoon2-Audio",
+  "Title": "Typhoon2-Audio: A Thai Multimodal Language Model for Speech and Text Processing",
+  "Time": "2024-12",
+  "Affiliation": "SCB 10X",
+  "Author": "Kunat Pipatanakul, Potsawee Manakul, Natapong Nitarach, Warit Sirichotedumrong, Surapon Nonesung, Teetouch Jaknamon, Parinthapat Pengpun, Pittawat Taveekitworachai, Adisai Na-Thalang, Sittipong Sripaisarnmongkol, Krisanapong Jirayoot, Kasima Tharnpipitchai",
+  "GitHub_Link": "https://github.com/scb-10x/typhoon2-audio/",
+  "Paper_Link": "https://arxiv.org/abs/2412.13702",
+  "HF_Link": "https://huggingface.co/scb10x/llama3.1-typhoon2-audio-8b-instruct",
+  "Demo_Link": "https://audio.opentyphoon.ai/",
+  "Other_Link": "",
+  "Audio_Input": "Yes",
+  "Audio_Output": "Yes",
+  "Language": "Thai, English",
+  "Description": "Typhoon2-Audio is a multimodal language model designed for Thai and English speech and text processing. It supports speech/audio input and both speech and text output, integrating components from SALMONN and Llama-Omni architectures. The model is trained on curated datasets to enhance instruction-following abilities and Thai language performance."
+}
