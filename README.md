@@ -22,6 +22,8 @@ We thank the following contributors for their valuable contributions!
 <img src="model_release_timeline_vertical_listed.png" alt="Timeline Visualization" width="600">
 
 ### Abbreviations with Links
+- [OSUM](https://arxiv.org/pdf/2501.13306)
+- [Step-Audio](https://arxiv.org/abs/2502.11946)
 - [Audio-CoT](https://arxiv.org/abs/2501.07246)
 - [LUCY](https://arxiv.org/abs/2501.16327)
 - [MinMo](https://arxiv.org/abs/2501.06282)
@@ -87,6 +89,18 @@ We thank the following contributors for their valuable contributions!
 - [AudioGPT](https://arxiv.org/pdf/2304.12995.pdf)
 
 ## Model and Methods
+
+- `【2025-02】-【OSUM】-【ASLP@NPU】-【Type: Model】`
+  - **OSUM: Advancing Open Speech Understanding Models with Limited Resources in Academia**
+  - **Author(s):** Xuelong Geng, Kun Wei, Qijie Shao, Shuiyun Liu, Zhennan Lin, Zhixian Zhao, Guojian Li, Wenjie Tian, Peikun Chen, Yangze Li, Pengcheng Guo, Mingchen Shao, Shuiyuan Wang, Yuang Cao, Chengyou Wang, Tianyi Xu, Yuhang Dai, Xinfa Zhu, Yue Li, Li Zhang, Lei Xie
+  - [![GitHub stars](https://img.shields.io/github/stars/ASLP-lab/OSUM?style=social)](https://github.com/ASLP-lab/OSUM)
+  - [Paper](https://arxiv.org/pdf/2501.13306) / [Hugging Face Model](https://huggingface.co/spaces/ASLP-lab/OSUM)
+
+- `【2025-02】-【Step-Audio】-【Step-Audio Team, StepFun】-【Type: Model】`
+  - **Step-Audio: Unified Understanding and Generation in Intelligent Speech Interaction**
+  - **Author(s):** Ailin Huang, Boyong Wu, Bruce Wang, Chao Yan, Chen Hu, Chengli Feng, Fei Tian, Feiyu Shen, Jingbei Li, Mingrui Chen, Peng Liu, Ruihang Miao, Wang You, Xi Chen, Xuerui Yang, Yechang Huang, Yuxiang Zhang, Zheng Gong, Zixin Zhang, Hongyu Zhou, Jianjian Sun, Brian Li, Chengting Feng, Changyi Wan, Hanpeng Hu, Jianchang Wu, Jiangjie Zhen, Ranchen Ming, Song Yuan, Xuelin Zhang, Yu Zhou, Bingxin Li, Buyun Ma, Hongyuan Wang, Kang An, Wei Ji, Wen Li, Xuan Wen, Xiangwen Kong, Yuankai Ma, Yuanwei Liang, Yun Mou, Bahtiyar Ahmidi, Bin Wang, Bo Li, Changxin Miao, Chen Xu, Chenrun Wang, Dapeng Shi, Deshan Sun, Dingyuan Hu, Dula Sai, Enle Liu, Guanzhe Huang, Gulin Yan, Heng Wang, Haonan Jia, Haoyang Zhang, Jiahao Gong, Junjing Guo, Jiashuai Liu, Jiahong Liu, Jie Feng, Jie Wu, Jiaoren Wu, Jie Yang, Jinguo Wang, Jingyang Zhang, Junzhe Lin, Kaixiang Li, Lei Xia, Li Zhou, Liang Zhao, Longlong Gu, Mei Chen, Menglin Wu, Ming Li, Mingxiao Li, Mingliang Li, Mingyao Liang, Na Wang, Nie Hao, Qiling Wu, Qinyuan Tan, Ran Sun, Shuai Shuai, Shaoliang Pang, Shiliang Yang, Shuli Gao, Shanshan Yuan, Siqi Liu, Shihong Deng, Shilei Jiang, Sitong Liu, Tiancheng Cao, Tianyu Wang, Wenjin Deng, Wuxun Xie, Weipeng Ming, Wenqing He , Wen Sun, Xin Han, Xin Huang, Xiaomin Deng, Xiaojia Liu, Xin Wu, Xu Zhao, Yanan Wei, Yanbo Yu, Yang Cao, Yangguang Li, Yangzhen Ma, Yanming Xu, Yaoyu Wang, Yaqiang Shi, Yilei Wang, Yizhuang Zhou, Yinmin Zhong, Yang Zhang, Yaoben Wei, Yu Luo, Yuanwei Lu, Yuhe Yin, Yuchu Luo, Yuanhao Ding, Yuting Yan, Yaqi Dai, Yuxiang Yang, Zhe Xie, Zheng Ge, Zheng Sun, Zhewei Huang, Zhichao Chang, Zhisheng Guan, Zidong Yang, Zili Zhang, Binxing Jiao, Daxin Jiang, Heung-Yeung Shum, Jiansheng Chen, Jing Li, Shuchang Zhou, Xiangyu Zhang, Xinhao Zhang, Yibo Zhu
+  - [![GitHub stars](https://img.shields.io/github/stars/stepfun-ai/Step-Audio?style=social)](https://github.com/stepfun-ai/Step-Audio)
+  - [Paper](https://arxiv.org/abs/2502.11946) / [Hugging Face Model](https://huggingface.co/stepfun-ai/Step-Audio-Chat)
 
 - `【2025-01】-【Audio-CoT】-【Nanyang Technological University, Singapore】-【Type: Model】`
   - **Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language Model**
