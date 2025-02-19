@@ -13,6 +13,7 @@ We thank the following contributors for their valuable contributions!
 and You!
 [![Star History Chart](https://api.star-history.com/svg?repos=AudioLLMs/Awesome-Audio-LLM&type=Date)](https://star-history.com/#AudioLLMs/Awesome-Audio-LLM&Date)
 ## Table of Contents
+- [Dataset Resource](#dataset-resource)
 - [Model and Methods](#model-and-methods)
 - [Benchmark](#benchmark)
 - [Multimodal](#multimodal)
@@ -73,6 +74,7 @@ and You!
 - [AIR-Bench](https://aclanthology.org/2024.acl-long.109/)
 - [Audio Flamingo](https://arxiv.org/abs/2402.01831)
 - [VoiceJailbreak](https://arxiv.org/pdf/2405.19103)
+- [LibriSQA](https://arxiv.org/abs/2308.10390)
 - [SALMONN](https://arxiv.org/pdf/2310.13289.pdf)
 - [WavLLM](https://arxiv.org/pdf/2404.00656)
 - [SpokenWOZ](https://arxiv.org/abs/2305.13040)
@@ -89,6 +91,14 @@ and You!
 - [Macaw-LLM](https://arxiv.org/pdf/2306.09093)
 - [SpeechGPT](https://arxiv.org/pdf/2305.11000.pdf)
 - [AudioGPT](https://arxiv.org/pdf/2304.12995.pdf)
+
+## Dataset Resource
+
+- `【2024-04】-【LibriSQA】-【Shanghai Jiao Tong University】-【Type: Dataset Resource】`
+  - **LibriSQA: A Novel Dataset and Framework for Spoken Question Answering with Large Language Models**
+  - **Author(s):** Zihan Zhao, Yiyang Jiang, Heyang Liu, Yanfeng Wang, Yu Wang
+  - [![GitHub stars](https://img.shields.io/github/stars/ZihanZhaoSJTU/LibriSQA?style=social)](https://github.com/ZihanZhaoSJTU/LibriSQA)
+  - [Paper](https://arxiv.org/abs/2308.10390)
 
 ## Model and Methods
 

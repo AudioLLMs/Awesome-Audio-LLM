@@ -181,17 +181,5 @@ for category, cards in categories.items():
 with open("README.md", "w") as readme_file:
     readme_file.write("\n".join(readme_lines))
 
-# # Update with contributors
-# readme_lines.append("## Contributors")
-# readme_lines.append("We thank the following contributors for their valuable contributions!")
-# readme_lines.append("")
-# readme_lines.append("<!-- Contributors list -->")
-
-# readme_lines.append("<!-- Contributors list -->")
-
-
-
-
-
 
 print("README.md has been generated.")

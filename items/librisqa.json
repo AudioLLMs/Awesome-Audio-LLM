@@ -1,0 +1,18 @@
+{
+    "Category"    : "Dataset Resource",
+    "Type"        : "Dataset Resource",
+    "Abbreviation": "LibriSQA",
+    "Title"       : "LibriSQA: A Novel Dataset and Framework for Spoken Question Answering with Large Language Models",
+    "Time"        : "2024-04",
+    "Affiliation" : "Shanghai Jiao Tong University",
+    "Author"      : "Zihan Zhao, Yiyang Jiang, Heyang Liu, Yanfeng Wang, Yu Wang",
+    "GitHub_Link" : "https://github.com/ZihanZhaoSJTU/LibriSQA",
+    "Paper_Link"  : "https://arxiv.org/abs/2308.10390",
+    "HF_Link"     : "",
+    "Demo_Link"   : "",
+    "Other_Link"  : "",
+    "Audio_Input" : "-",
+    "Audio_Output": "-",
+    "Language"    : "English",
+    "Description" : "While Large Language Models (LLMs) have demonstrated commendable performance across a myriad of domains and tasks, existing LLMs still exhibit a palpable deficit in handling multimodal functionalities, especially for the Spoken Question Answering (SQA) task which necessitates precise alignment and deep interaction between speech and text features. To address the SQA challenge on LLMs, we initially curated the free-form and open-ended LibriSQA dataset from Librispeech, comprising Part I with natural conversational formats and Part II encompassing multiple-choice questions followed by answers and analytical segments. Both parts collectively include 107k SQA pairs that cover various topics. Given the evident paucity of existing speech-text LLMs, we propose a lightweight, end-to-end framework to execute the SQA task on the LibriSQA, witnessing significant results. By reforming ASR into the SQA format, we further substantiate our framework's capability in handling ASR tasks. Our empirical findings bolster the LLMs' aptitude for aligning and comprehending multimodal information, paving the way for the development of universal multimodal LLMs."
+}
