@@ -106,6 +106,7 @@ readme_lines.append("[potsawee](https://github.com/potsawee), ")
 readme_lines.append("[czwxian](https://github.com/czwxian), ")
 readme_lines.append("[marianasignal](https://github.com/marianasignal), ")
 
+readme_lines.append("[![Star History Chart](https://api.star-history.com/svg?repos=AudioLLMs/Awesome-Audio-LLM&type=Date)](https://star-history.com/#AudioLLMs/Awesome-Audio-LLM&Date)")
 
 
 
@@ -179,17 +180,16 @@ for category, cards in categories.items():
 with open("README.md", "w") as readme_file:
     readme_file.write("\n".join(readme_lines))
 
-# Update with contributors
-readme_lines.append("## Contributors")
-readme_lines.append("We thank the following contributors for their valuable contributions!")
-readme_lines.append("")
-readme_lines.append("<!-- Contributors list -->")
+# # Update with contributors
+# readme_lines.append("## Contributors")
+# readme_lines.append("We thank the following contributors for their valuable contributions!")
+# readme_lines.append("")
+# readme_lines.append("<!-- Contributors list -->")
 
-readme_lines.append("<!-- Contributors list -->")
+# readme_lines.append("<!-- Contributors list -->")
 
 
 
-readme_lines.append("[![Star History Chart](https://api.star-history.com/svg?repos=AudioLLMs/Awesome-Audio-LLM&type=Date)](https://star-history.com/#AudioLLMs/Awesome-Audio-LLM&Date)")
 
 
 
