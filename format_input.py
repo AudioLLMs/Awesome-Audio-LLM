@@ -29,7 +29,7 @@ for card, time in zip(model_cards, times):
 grouped_cards = dict(sorted(grouped_cards.items(), reverse=True))
 
 # Set up the plot
-fig, ax = plt.subplots(figsize=(9, len(grouped_cards) * 2))  # Reduced width of the figure
+fig, ax = plt.subplots(figsize=(12, len(grouped_cards) * 2))  # Reduced width of the figure
 
 # Plot the timeline with items listed vertically
 y_pos = 0
