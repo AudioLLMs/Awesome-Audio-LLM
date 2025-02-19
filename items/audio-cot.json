@@ -1,0 +1,18 @@
+{
+    "Category"    : "Model and Methods",
+    "Type"        : "Model",
+    "Abbreviation": "Audio-CoT",
+    "Title"       : "Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language Model",
+    "Time"        : "2025-01",
+    "Affiliation" : "Nanyang Technological University, Singapore",
+    "Author"      : "Ziyang Ma, Zhuo Chen, Yuping Wang, Eng Siong Chng, Xie Chen",
+    "GitHub_Link" : "",
+    "Paper_Link"  : "https://arxiv.org/abs/2501.07246",
+    "HF_Link"     : "",
+    "Demo_Link"   : "",
+    "Other_Link"  : "",
+    "Audio_Input" : "Yes",
+    "Audio_Output": "No",
+    "Language"    : "English",
+    "Description" : "Large Audio-Language Models (LALMs) have demonstrated remarkable performance in tasks involving audio perception and understanding, such as speech recognition and audio captioning. However, their reasoning capabilities - critical for solving complex real-world problems - remain underexplored. In this work, we conduct the first exploration into integrating Chain-of-Thought (CoT) reasoning into LALMs to enhance their reasoning ability across auditory modalities. We evaluate representative CoT methods, analyzing their performance in both information extraction and reasoning tasks across sound, music, and speech domains. Our findings reveal that CoT methods significantly improve performance on easy and medium tasks but encounter challenges with hard tasks, where reasoning chains can confuse the model rather than improve accuracy. Additionally, we identify a positive correlation between reasoning path length and accuracy, demonstrating the potential of scaling inference for advanced instruction-following and reasoning. This study not only highlights the promise of CoT in enhancing LALM reasoning capabilities but also identifies key limitations and provides actionable directions for future research."
+}

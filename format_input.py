@@ -103,7 +103,8 @@ readme_lines.append("[Liu-Tianchi](https://github.com/Liu-Tianchi), ")
 readme_lines.append("[Sakshi113](https://github.com/Sakshi113), ")
 readme_lines.append("[hbwu-ntu](https://github.com/hbwu-ntu), ")
 readme_lines.append("[potsawee](https://github.com/potsawee), ")
-
+readme_lines.append("[czwxian](https://github.com/czwxian), ")
+readme_lines.append("[marianasignal](https://github.com/marianasignal), ")
 
 
 

@@ -8,6 +8,8 @@ We thank the following contributors for their valuable contributions!
 [Sakshi113](https://github.com/Sakshi113), 
 [hbwu-ntu](https://github.com/hbwu-ntu), 
 [potsawee](https://github.com/potsawee), 
+[czwxian](https://github.com/czwxian), 
+[marianasignal](https://github.com/marianasignal), 
 ## Table of Contents
 - [Model and Methods](#model-and-methods)
 - [Benchmark](#benchmark)
@@ -20,6 +22,8 @@ We thank the following contributors for their valuable contributions!
 <img src="model_release_timeline_vertical_listed.png" alt="Timeline Visualization" width="600">
 
 ### Abbreviations with Links
+- [Audio-CoT](https://arxiv.org/abs/2501.07246)
+- [LUCY](https://arxiv.org/abs/2501.16327)
 - [MinMo](https://arxiv.org/abs/2501.06282)
 - [TalkArena](https://talkarena.org/)
 - [Typhoon2-Audio](https://arxiv.org/abs/2412.13702)
@@ -67,6 +71,7 @@ We thank the following contributors for their valuable contributions!
 - [VoiceJailbreak](https://arxiv.org/pdf/2405.19103)
 - [SALMONN](https://arxiv.org/pdf/2310.13289.pdf)
 - [WavLLM](https://arxiv.org/pdf/2404.00656)
+- [SpokenWOZ](https://arxiv.org/abs/2305.13040)
 - [AudioLM-Survey](https://arxiv.org/abs/2402.13236)
 - [SLAM-LLM](https://arxiv.org/pdf/2402.08846)
 - [Pengi](https://arxiv.org/pdf/2305.11834.pdf)
@@ -82,6 +87,17 @@ We thank the following contributors for their valuable contributions!
 - [AudioGPT](https://arxiv.org/pdf/2304.12995.pdf)
 
 ## Model and Methods
+
+- `【2025-01】-【Audio-CoT】-【Nanyang Technological University, Singapore】-【Type: Model】`
+  - **Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language Model**
+  - **Author(s):** Ziyang Ma, Zhuo Chen, Yuping Wang, Eng Siong Chng, Xie Chen
+  - [Paper](https://arxiv.org/abs/2501.07246)
+
+- `【2025-01】-【LUCY】-【Tencent】-【Type: Model】`
+  - **LUCY: Linguistic Understanding and Control Yielding Early Stage of Her**
+  - **Author(s):** Heting Gao, Hang Shao, Xiong Wang, Chaofan Qiu, Yunhang Shen, Siqi Cai, Yuchen Shi, Zihan Xu, Zuwei Long, Yike Zhang, Shaoqi Dong, Chaoyou Fu, Ke Li, Long Ma, Xing Sun
+  - [![GitHub stars](https://img.shields.io/github/stars/VITA-MLLM/LUCY?style=social)](https://github.com/VITA-MLLM/LUCY)
+  - [Paper](https://arxiv.org/abs/2501.16327)
 
 - `【2024-12】-【Typhoon2-Audio】-【SCB 10X】-【Type: Multimodal Language Model】`
   - **Typhoon2-Audio: A Thai Multimodal Language Model for Speech and Text Processing**
@@ -361,6 +377,12 @@ We thank the following contributors for their valuable contributions!
   - **Author(s):** Qian Yang, Jin Xu, Wenrui Liu, Yunfei Chu, Ziyue Jiang, Xiaohuan Zhou, Yichong Leng, Yuanjun Lv, Zhou Zhao, Chang Zhou, Jingren Zhou
   - [![GitHub stars](https://img.shields.io/github/stars/OFA-Sys/AIR-Bench?style=social)](https://github.com/OFA-Sys/AIR-Bench)
   - [Paper](https://aclanthology.org/2024.acl-long.109/)
+
+- `【2024-03】-【SpokenWOZ】-【Tencent】-【Type: Benchmark】`
+  - **SpokenWOZ: A Large-Scale Speech-Text Benchmark for Spoken Task-Oriented Dialogue Agents**
+  - **Author(s):** Shuzheng Si, Wentao Ma, Haoyu Gao, Yuchuan Wu, Ting-En Lin, Yinpei Dai, Hangyu Li, Rui Yan, Fei Huang, Yongbin Li
+  - [![GitHub stars](https://img.shields.io/github/stars/main/spokenwoz?style=social)](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/spokenwoz)
+  - [Paper](https://arxiv.org/abs/2305.13040) / [Demo](https://spokenwoz.github.io/)
 
 - `【2023-09】-【Dynamic-SUPERB】-【NTU-Taiwan, etc.】-【Type: Benchmark】`
   - **Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech**

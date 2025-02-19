@@ -1,0 +1,18 @@
+{
+    "Category"    : "Model and Methods",
+    "Type"        : "Model",
+    "Abbreviation": "LUCY",
+    "Title"       : "LUCY: Linguistic Understanding and Control Yielding Early Stage of Her",
+    "Time"        : "2025-01",
+    "Affiliation" : "Tencent",
+    "Author"      : "Heting Gao, Hang Shao, Xiong Wang, Chaofan Qiu, Yunhang Shen, Siqi Cai, Yuchen Shi, Zihan Xu, Zuwei Long, Yike Zhang, Shaoqi Dong, Chaoyou Fu, Ke Li, Long Ma, Xing Sun",
+    "GitHub_Link" : "https://github.com/VITA-MLLM/LUCY",
+    "Paper_Link"  : "https://arxiv.org/abs/2501.16327",
+    "HF_Link"     : "",
+    "Demo_Link"   : "",
+    "Other_Link"  : "",
+    "Audio_Input" : "Yes",
+    "Audio_Output": "Yes",
+    "Language"    : "English",
+    "Description" : "The film Her features Samantha, a sophisticated AI audio agent who is capable of understanding both linguistic and paralinguistic information in human speech and delivering real-time responses that are natural, informative and sensitive to emotional subtleties. Moving one step toward more sophisticated audio agent from recent advancement in end-to-end (E2E) speech systems, we propose LUCY, a E2E speech model that (1) senses and responds to user's emotion, (2) deliver responses in a succinct and natural style, and (3) use external tool to answer real-time inquiries. Experiment results show that LUCY is better at emotion control than peer models, generating emotional responses based on linguistic emotional instructions and responding to paralinguistic emotional cues. Lucy is also able to generate responses in a more natural style, as judged by external language models, without sacrificing much performance on general question answering. Finally, LUCY can leverage function calls to answer questions that are out of its knowledge scope."
+}
