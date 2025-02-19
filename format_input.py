@@ -189,4 +189,8 @@ readme_lines.append("<!-- Contributors list -->")
 
 
 
+readme_lines.append("[![Star History Chart](https://api.star-history.com/svg?repos=AudioLLMs/Awesome-Audio-LLM&type=Date)](https://star-history.com/#AudioLLMs/Awesome-Audio-LLM&Date)")
+
+
+
 print("README.md has been generated.")

@@ -1,0 +1,18 @@
+{
+    "Category"    : "Model and Methods",
+    "Type"        : "Model",
+    "Abbreviation": "OSUM",
+    "Title"       : "OSUM: Advancing Open Speech Understanding Models with Limited Resources in Academia",
+    "Time"        : "2025-02",
+    "Affiliation" : "ASLP@NPU",
+    "Author"      : "Xuelong Geng, Kun Wei, Qijie Shao, Shuiyun Liu, Zhennan Lin, Zhixian Zhao, Guojian Li, Wenjie Tian, Peikun Chen, Yangze Li, Pengcheng Guo, Mingchen Shao, Shuiyuan Wang, Yuang Cao, Chengyou Wang, Tianyi Xu, Yuhang Dai, Xinfa Zhu, Yue Li, Li Zhang, Lei Xie",
+    "GitHub_Link" : "https://github.com/ASLP-lab/OSUM",
+    "Paper_Link"  : "https://arxiv.org/pdf/2501.13306",
+    "HF_Link"     : "https://huggingface.co/spaces/ASLP-lab/OSUM",
+    "Demo_Link"   : "",
+    "Other_Link"  : "",
+    "Audio_Input" : "Yes",
+    "Audio_Output": "No",
+    "Language"    : "Multilingual",
+    "Description" : "Large Language Models (LLMs) have made significant progress in various downstream tasks, inspiring the development of Speech Understanding Language Models (SULMs) to enable comprehensive speech-based interactions. However, most advanced SULMs are developed by the industry, leveraging large-scale datasets and computational resources that are not readily available to the academic community. Moreover, the lack of transparency in training details creates additional barriers to further innovation. In this study, we present OSUM, an Open Speech Understanding Model designed to explore the potential of training SLUMs under constrained academic resources. The OSUM model combines a Whisper encoder with a Qwen2 LLM and supports a wide range of speech tasks, including speech recognition (ASR), speech recognition with timestamps (SRWT), vocal event detection (VED), speech emotion recognition (SER), speaking style recognition (SSR), speaker gender classification (SGC), speaker age prediction (SAP), and speech-to-text chat (STTC). By employing an ASR+X training strategy, OSUM achieves efficient and stable multi-task training by simultaneously optimizing ASR alongside target tasks. Beyond delivering strong performance, OSUM emphasizes transparency by providing openly available data preparation and training methodologies, offering valuable insights and practical guidance for the academic community. By doing so, we aim to accelerate research and innovation in advanced SULM technologies."
+}
