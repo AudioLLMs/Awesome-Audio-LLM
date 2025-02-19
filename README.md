@@ -28,6 +28,7 @@ and You!
 - [OSUM](https://arxiv.org/pdf/2501.13306)
 - [Step-Audio](https://arxiv.org/abs/2502.11946)
 - [Audio-CoT](https://arxiv.org/abs/2501.07246)
+- [UltraEval-Audio](https://github.com/OpenBMB/UltraEval-Audio)
 - [LUCY](https://arxiv.org/abs/2501.16327)
 - [MinMo](https://arxiv.org/abs/2501.06282)
 - [TalkArena](https://talkarena.org/)
@@ -338,6 +339,11 @@ and You!
   - [Paper](https://arxiv.org/pdf/2304.12995.pdf)
 
 ## Benchmark
+
+- `【2025-01】-【UltraEval-Audio】-【OpenBMB】-【Type: Benchmark】`
+  - **UltraEval-Audio**
+  - **Author(s):** OpenBMB
+  - [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/UltraEval-Audio?style=social)](https://github.com/OpenBMB/UltraEval-Audio)
 
 - `【2024-12】-【TalkArena】-【Stanford University, SCB 10X】-【Type: Interactive Benchmarking Tool】`
   - **TalkArena: Interactive Evaluation of Large Audio Models**

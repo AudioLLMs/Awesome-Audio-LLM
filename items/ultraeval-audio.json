@@ -1,0 +1,18 @@
+{
+  "Category": "Benchmark",
+  "Type": "Benchmark",
+  "Abbreviation": "UltraEval-Audio",
+  "Title": "UltraEval-Audio",
+  "Time": "2025-01",
+  "Affiliation": "OpenBMB",
+  "Author": "OpenBMB",
+  "GitHub_Link": "https://github.com/OpenBMB/UltraEval-Audio",
+  "Paper_Link": "",
+  "HF_Link": "",
+  "Demo_Link": "",
+  "Other_Link": "",
+  "Audio_Input": "-",
+  "Audio_Output": "-",
+  "Language": "Multilingual",
+  "Description": "UltraEval-Audio"
+}
