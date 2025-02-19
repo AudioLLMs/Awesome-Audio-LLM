@@ -105,6 +105,7 @@ readme_lines.append("[hbwu-ntu](https://github.com/hbwu-ntu), ")
 readme_lines.append("[potsawee](https://github.com/potsawee), ")
 readme_lines.append("[czwxian](https://github.com/czwxian), ")
 readme_lines.append("[marianasignal](https://github.com/marianasignal), ")
+readme_lines.append("and You!")
 
 readme_lines.append("[![Star History Chart](https://api.star-history.com/svg?repos=AudioLLMs/Awesome-Audio-LLM&type=Date)](https://star-history.com/#AudioLLMs/Awesome-Audio-LLM&Date)")
 
