@@ -1,0 +1,18 @@
+{
+    "Category": "Benchmark",
+    "Type": "Benchmark",
+    "Abbreviation": "ADU-Bench",
+    "Title": "Benchmarking Open-ended Audio Dialogue Understanding for Large Audio-Language Models",
+    "Time": "2024-12",
+    "Affiliation": "Tsinghua University, University of Oxford",
+    "Author": "Kuofeng Gao, Shu-Tao Xia, Ke Xu, Philip Torr, Jindong Gu",
+    "GitHub_Link": "",
+    "Paper_Link": "https://arxiv.org/abs/2412.05167",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": "ADU-Bench is a comprehensive evaluation benchmark designed to assess the open-ended audio dialogue understanding capabilities of Large Audio-Language Models (LALMs). It comprises over 20,000 open-ended audio dialogues across various scenarios, skills, languages, and ambiguity categories, providing a robust framework for evaluating and advancing LALMs in real-world audio dialogue applications."
+}
