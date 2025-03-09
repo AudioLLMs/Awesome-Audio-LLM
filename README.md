@@ -11,6 +11,14 @@ We thank the following contributors for their valuable contributions!
 [czwxian](https://github.com/czwxian), 
 [marianasignal](https://github.com/marianasignal), 
 and You!
+
+### Contributors
+
+<a href="https://github.com/AudioLLMs/Awesome-Audio-LLM/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AudioLLMs/Awesome-Audio-LLM" />
+</a>
+
+
 [![Star History Chart](https://api.star-history.com/svg?repos=AudioLLMs/Awesome-Audio-LLM&type=Date)](https://star-history.com/#AudioLLMs/Awesome-Audio-LLM&Date)
 ## Table of Contents
 - [Dataset Resource](#dataset-resource)
