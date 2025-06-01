@@ -33,6 +33,9 @@ and You!
 <img src="model_release_timeline_vertical_listed.png" alt="Timeline Visualization" width="600">
 
 ### Abbreviations with Links
+- [Audio-FLAN](https://arxiv.org/pdf/2502.16584)
+- [MMAR](https://arxiv.org/pdf/2505.13032)
+- [MusiLingo](https://arxiv.org/pdf/2309.08730) 
 - [OSUM](https://arxiv.org/pdf/2501.13306)
 - [Step-Audio](https://arxiv.org/abs/2502.11946)
 - [Audio-CoT](https://arxiv.org/abs/2501.07246)
@@ -104,6 +107,12 @@ and You!
 
 ## Dataset Resource
 
+- `【2025-02】-【Audio-FLAN】-【The Hong Kong University of Science and Technology】-【Type: Dataset Resource】`
+  - **Audio-FLAN: A Preliminary Release**
+  - **Author(s):** Liumeng Xue, Ziya Zhou, Jiahao Pan, Zixuan Li, Shuai Fan, Yinghao Ma, Sitong Cheng, Dongchao Yang, Haohan Guo, Yujia Xiao, Xinsheng Wang, Zixuan Shen, Chuanbo Zhu, Xinshen Zhang, Tianchi Liu, Ruibin Yuan, Zeyue Tian, Haohe Liu, Emmanouil Benetos, Ge Zhang, Yike Guo, Wei Xue
+  - [![GitHub stars](https://img.shields.io/github/stars/lmxue/Audio-FLAN?style=social)](https://github.com/lmxue/Audio-FLAN)
+  - [Paper](https://arxiv.org/abs/2502.16584) / [Hugging Face](https://huggingface.co/datasets/HKUSTAudio/Audio-FLAN-Dataset)
+  - 
 - `【2024-04】-【LibriSQA】-【Shanghai Jiao Tong University】-【Type: Dataset Resource】`
   - **LibriSQA: A Novel Dataset and Framework for Spoken Question Answering with Large Language Models**
   - **Author(s):** Zihan Zhao, Yiyang Jiang, Heyang Liu, Yanfeng Wang, Yu Wang
@@ -266,6 +275,12 @@ and You!
   - [![GitHub stars](https://img.shields.io/github/stars/Sreyan88/CompA?style=social)](https://github.com/Sreyan88/CompA)
   - [Paper](https://arxiv.org/abs/2310.08753) / [Demo](https://sreyan88.github.io/compa_iclr/)
 
+- `【2024-06】-【MusiLingo】-【University of Pennsylvania】-【Type: Model】`
+  - **MusiLingo: Bridging Music and Text with Pre-trained Language Models for Music Captioning and Query Response**
+  - **Author(s):** Zihao Deng, Yinghao Ma, Yudong Liu, Rongchen Guo, Ge Zhang, Wenhu Chen, Wenhao Huang, Emmanouil Benetos
+  - [![GitHub stars](https://img.shields.io/github/stars/zihaod/MusiLingo?style=social)](https://github.com/zihaod/MusiLingo)
+  - [Paper](https://aclanthology.org/2024.findings-naacl.231.pdf)
+
 - `【2024-06】-【Speech ReaLLM】-【Meta】-【Type: Model】`
   - **Speech ReaLLM – Real-time Streaming Speech Recognition with Multimodal LLMs by Teaching the Flow of Time**
   - **Author(s):** Authors not specified in the provided information
@@ -348,6 +363,12 @@ and You!
   - [Paper](https://arxiv.org/pdf/2304.12995.pdf)
 
 ## Benchmark
+
+- `【2025-05】-【MMAR】-【Shanghai Jiao Tong University】-【Type: Benchmark】`
+  - **MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix**
+  - **Author(s):** Ziyang Ma, Yinghao Ma, Yanqiao Zhu, Chen Yang, Yi-Wen Chao, Ruiyang Xu, Wenxi Chen, Yuanzhe Chen, Zhuo Chen, Jian Cong, Kai Li, Keliang Li, Siyou Li, Xinfeng Li, Xiquan Li, Zheng Lian, Yuzhe Liang, Minghao Liu, Zhikang Niu, Tianrui Wang, Yuping Wang, Yuxuan Wang, Yihao Wu, Guanrou Yang, Jianwei Yu, Ruibin Yuan, Zhisheng Zheng, Ziya Zhou, Haina Zhu, Wei Xue, Emmanouil Benetos, Kai Yu, Eng-Siong Chng, Xie Chen
+  - [Paper](https://arxiv.org/abs/2505.13032)
+
 
 - `【2025-01】-【UltraEval-Audio】-【OpenBMB】-【Type: Benchmark】`
   - **UltraEval-Audio**
