@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "MusiLingo",
+    "Title": "MusiLingo: Bridging Music and Text with Pre-trained Language Models for Music Captioning and Query Response",
+    "Time": "2024-06",
+    "Affiliation": "University of Pennsylvania",
+    "Author": "Zihao Deng, Yinghao Ma, Yudong Liu, Rongchen Guo, Ge Zhang, Wenhu Chen, Wenhao Huang, Emmanouil Benetos",
+    "GitHub_Link": "https://github.com/zihaod/MusiLingo",
+    "Paper_Link": "https://arxiv.org/pdf/2309.08730",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "English",
+    "Description": "MusiLingo is a novel system that bridges music audio and language by aligning MERT and a frozen LLM via a single projection layer, enabling high-quality music captioning and question answering, supported by the newly introduced MusicInstruct dataset."
+}

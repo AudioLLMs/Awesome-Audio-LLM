@@ -1,0 +1,18 @@
+{
+    "Category"    : "Dataset Resource",
+    "Type"        : "Dataset Resource",
+    "Abbreviation": "Audio-FLAN",
+    "Title"       : "Audio-FLAN: A Preliminary Release",
+    "Time"        : "2025-02",
+    "Affiliation" : "The Hong Kong University of Science and Technology",
+    "Author"      : "Liumeng Xue, Ziya Zhou, Jiahao Pan, Zixuan Li, Shuai Fan, Yinghao Ma, Sitong Cheng, Dongchao Yang, Haohan Guo, Yujia Xiao, Xinsheng Wang, Zixuan Shen, Chuanbo Zhu, Xinshen Zhang, Tianchi Liu, Ruibin Yuan, Zeyue Tian, Haohe Liu, Emmanouil Benetos, Ge Zhang, Yike Guo, Wei Xue",
+    "GitHub_Link" : "https://github.com/lmxue/Audio-FLAN",
+    "Paper_Link"  : "https://arxiv.org/abs/2502.16584",
+    "HF_Link"     : "https://huggingface.co/datasets/HKUSTAudio/Audio-FLAN-Dataset",
+    "Demo_Link"   : "",
+    "Other_Link"  : "",
+    "Audio_Input" : "-",
+    "Audio_Output": "-",
+    "Language"    : "English",
+    "Description" : "Audio-FLAN is a large-scale instruction-tuning dataset with over 100 million instances across 80 tasks in speech, music, and sound, designed to unify audio understanding and generation for developing generalist audio-language models."
+}
