@@ -1,0 +1,18 @@
+{
+  "Category": "Benchmark",
+  "Type": "Benchmark",
+  "Abbreviation": "MMAR",
+  "Title": "MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix",
+  "Time": "2025-05",
+  "Affiliation": "Shanghai Jiao Tong University",
+  "Author": "Ziyang Ma, Yinghao Ma, Yanqiao Zhu, Chen Yang, Yi-Wen Chao, Ruiyang Xu, Wenxi Chen, Yuanzhe Chen, Zhuo Chen, Jian Cong, Kai Li, Keliang Li, Siyou Li, Xinfeng Li, Xiquan Li, Zheng Lian, Yuzhe Liang, Minghao Liu, Zhikang Niu, Tianrui Wang, Yuping Wang, Yuxuan Wang, Yihao Wu, Guanrou Yang, Jianwei Yu, Ruibin Yuan, Zhisheng Zheng, Ziya Zhou, Haina Zhu, Wei Xue, Emmanouil Benetos, Kai Yu, Eng-Siong Chng, Xie Chen",
+  "GitHub_Link": "",
+  "Paper_Link": "https://arxiv.org/abs/2505.13032",
+  "HF_Link": "",
+  "Demo_Link": "",
+  "Other_Link": "",
+  "Audio_Input": "-",
+  "Audio_Output": "-",
+  "Language": "Multilingual",
+  "Description": "MMAR is a challenging benchmark of 1,000 real-world audio QA triplets designed to evaluate deep, multi-layer reasoning in Audio-Language Models across diverse sound, music, and speech tasks, with hierarchical annotations and Chain-of-Thought rationales to drive progress in audio reasoning research."
+}
