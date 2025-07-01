@@ -25,6 +25,7 @@ and You!
 <img src="model_release_timeline_vertical_listed.png" alt="Timeline Visualization" width="600">
 
 ### Abbreviations with Links
+- [CMI-Bench](https://arxiv.org/abs/2506.12285)
 - [MMAR](https://arxiv.org/abs/2505.13032)
 - [OSUM](https://arxiv.org/pdf/2501.13306)
 - [Audio-FLAN](https://arxiv.org/abs/2502.16584)
@@ -348,6 +349,12 @@ and You!
   - [Paper](https://arxiv.org/abs/2501.06282) / [Other Link](https://funaudiollm.github.io/minmo)
 
 ## Benchmark
+
+- `【2025-06】-【CMI-Bench】-【Queen Mary University of London】-【Type: Benchmark】`
+  - **CMI-Bench: A Comprehensive Benchmark for Evaluating Music Instruction Following**
+  - **Author(s):** Yinghao Ma, Siyou Li, Juntao Yu, Emmanouil Benetos, Akira Maezawa
+  - [![GitHub stars](https://img.shields.io/github/stars/nicolaus625/CMI-bench?style=social)](https://github.com/nicolaus625/CMI-bench)
+  - [Paper](https://arxiv.org/abs/2506.12285) / [Hugging Face Model](https://huggingface.co/papers/2506.12285)
 
 - `【2025-05】-【MMAR】-【Shanghai Jiao Tong University】-【Type: Benchmark】`
   - **MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix**

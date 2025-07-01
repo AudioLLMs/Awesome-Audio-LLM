@@ -1,0 +1,18 @@
+{
+    "Category": "Benchmark",
+    "Type": "Benchmark",
+    "Abbreviation": "CMI-Bench",
+    "Title": "CMI-Bench: A Comprehensive Benchmark for Evaluating Music Instruction Following",
+    "Time": "2025-06",
+    "Affiliation": "Queen Mary University of London",
+    "Author": "Yinghao Ma, Siyou Li, Juntao Yu, Emmanouil Benetos, Akira Maezawa",
+    "GitHub_Link": "https://github.com/nicolaus625/CMI-bench",
+    "Paper_Link": "https://arxiv.org/abs/2506.12285",
+    "HF_Link": "https://huggingface.co/papers/2506.12285",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": "This work presents CMI-Bench, a benchmark that evaluates audio-text LLMs on diverse music tasks by reformatting traditional MIR annotations into instruction-following formats. It highlights performance gaps and biases, offering a foundation for improving music-aware LLMs."
+}
