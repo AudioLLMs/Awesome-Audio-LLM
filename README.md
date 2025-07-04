@@ -25,6 +25,7 @@ and You!
 <img src="model_release_timeline_vertical_listed.png" alt="Timeline Visualization" width="600">
 
 ### Abbreviations with Links
+- [PAL](https://arxiv.org/abs/2506.10423)
 - [CMI-Bench](https://arxiv.org/abs/2506.12285)
 - [MMAR](https://arxiv.org/abs/2505.13032)
 - [OSUM](https://arxiv.org/pdf/2501.13306)
@@ -99,6 +100,11 @@ and You!
 - [AudioGPT](https://arxiv.org/pdf/2304.12995.pdf)
 
 ## Model and Methods
+
+- `【2025-06】-【PAL】-【CVSSP,PAI@University of Surrey UK, MBZUAI Abu Dhabi】-【Type: Model】`
+  - **PAL: Probing Audio Encoders via LLMs - A Study of Information Transfer from Audio Encoders to LLMs**
+  - **Author(s):** Tony Alex, Wish Suharitdamrong, Sara Atito, Armin Mustafa, Philip J. B. Jackson, Imran Razzak, Muhammad Awais
+  - [Paper](https://arxiv.org/abs/2506.10423) / [Project Page](https://ta012.github.io/PAL/)
 
 - `【2025-02】-【OSUM】-【ASLP@NPU】-【Type: Model】`
   - **OSUM: Advancing Open Speech Understanding Models with Limited Resources in Academia**
