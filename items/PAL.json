@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "PAL",
+    "Title": "PAL: Probing Audio Encoders via LLMs - A Study of Information Transfer from Audio Encoders to LLMs",
+    "Time": "2025-06",
+    "Affiliation": "CVSSP,PAI@University of Surrey UK, MBZUAI Abu Dhabi",
+    "Author": "Tony Alex, Wish Suharitdamrong, Sara Atito, Armin Mustafa, Philip J. B. Jackson, Imran Razzak, Muhammad Awais",
+    "GitHub_Link": "https://github.com/ta012/PAL-AudioLLM",
+    "Paper_Link": "https://arxiv.org/abs/2506.10423",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "https://ta012.github.io/PAL/",
+    "Audio_Input": "Yes",
+    "Audio_Output": "",
+    "Language": "Multilingual",
+    "Description": "PAL investigates and explores strategies for integrating audio encoders with LLMs, focusing on efficient cross-modal information transfer. Guided by hypotheses derived from mechanistic interpretability studies and the operational principles of LLMs."
+}
