@@ -1,0 +1,19 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "ACORN",
+    "Title": "Teaching Physical Awareness to LLMs through Sounds",
+    "Time": "2025-07",
+    "Affiliation": "NIO",
+    "Author": "Weiguo Wang, Andy Nie, Wenrui Zhou, Yi Kai, Chengchen Hu",
+    "GitHub_Link": "",
+    "Paper_Link": "https://arxiv.org/abs/2506.08524",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "https://icml.cc/virtual/2025/poster/46139",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "",
+    "Description": "ACORN explores and validates the feasibility of teaching LLMs to understand the physical world through sounds."
+}
+
