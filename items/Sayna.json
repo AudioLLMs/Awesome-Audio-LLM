@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Infrastructure",
+    "Abbreviation": "Sayna",
+    "Title": "Sayna: Voice Infrastructure for Audio LLM Applications",
+    "Time": "2025-01",
+    "Affiliation": "SaynaAI",
+    "Author": "",
+    "GitHub_Link": "https://github.com/SaynaAI/sayna",
+    "Paper_Link": "",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "https://docs.sayna.ai/",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "Multilingual",
+    "Description": "Sayna is a real-time voice infrastructure platform for building production voice-enabled LLM agents. It provides a unified API layer for STT/TTS with real-time streaming, multi-provider support, VAD, and voice analytics. Built with Rust and LiveKit, it offers low-latency WebSocket connections and REST endpoints for seamless voice-first experiences. Self-hostable with Docker and Kubernetes support."
+}
