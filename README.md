@@ -119,6 +119,13 @@ and You!
   - [![GitHub stars](https://img.shields.io/github/stars/ASLP-lab/OSUM?style=social)](https://github.com/ASLP-lab/OSUM)
   - [Paper](https://arxiv.org/pdf/2501.13306) / [Hugging Face Model](https://huggingface.co/spaces/ASLP-lab/OSUM)
 
+- `【2025-12】-【Fun-ASR-Nano】-【FunAudioLLM Team, Tongyi Lab, Alibaba Group】-【Type: Speech Recognition Model】`
+  - **Fun-ASR-Nano: End-to-End Speech Recognition Large Model with 31 Languages, Dialects, and Real-Time Streaming**
+  - **Architecture:** SenseVoice Encoder (SANM) + Transformer Adaptor + Qwen3-0.6B LLM + CTC Decoder
+  - **Training data:** Tens of millions of hours of real speech
+  - **Features:** 31 languages, 7 Chinese dialects, 26 regional accents, lyrics recognition, hotwords, timestamps, speaker diarization, vLLM streaming (393x realtime)
+  - [GitHub](https://github.com/FunAudioLLM/Fun-ASR) / [Paper](https://arxiv.org/abs/2509.12508) / [Demo](https://huggingface.co/spaces/FunAudioLLM/Fun-ASR-Nano) / [Model](https://huggingface.co/FunAudioLLM/Fun-ASR-Nano-2512)
+
 - `【2025-01】-【Audio-CoT】-【Nanyang Technological University, Singapore】-【Type: Model】`
   - **Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language Model**
   - **Author(s):** Ziyang Ma, Zhuo Chen, Yuping Wang, Eng Siong Chng, Xie Chen
