@@ -1,0 +1,18 @@
+{
+    "Category": "Audio Generation",
+    "Type": "Framework",
+    "Abbreviation": "Audio-Oscar",
+    "Title": "Audio-Oscar: A Multi-Agent System for Complex Audio Scene Generation, Orchestration, and Refinement",
+    "Time": "2026-06",
+    "Affiliation": "Shanghai Jiao Tong University (X-LANCE Lab), Shanghai Innovation Institute, Shanghai AI Laboratory, Xiamen University",
+    "Author": "Yifan Duan, Qixiang Xu, Hengtao Wu, Zhanxun Liu, Wenhao Guan, Junxi Liu, Ziyang Ma, Kelu Xu, Xie Chen",
+    "GitHub_Link": "https://github.com/ziye26/Audio-Oscar",
+    "Paper_Link": "https://arxiv.org/abs/2606.07397",
+    "HF_Link": "",
+    "Demo_Link": "https://audiooscar.github.io/",
+    "Other_Link": "",
+    "Audio_Input": "No",
+    "Audio_Output": "Yes",
+    "Language": "",
+    "Description": "Audio-Oscar is a multi-agent framework that coordinates specialist agents (character and voice design, speech generation, fine-grained timeline planning, model selection, non-speech generation, and audio post-production) to produce long-form, controllable audio from complex scene descriptions. The authors also introduce ASG-Bench for evaluating complex audio scene generation."
+}

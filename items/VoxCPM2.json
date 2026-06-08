@@ -1,0 +1,18 @@
+{
+    "Category": "Speech Synthesis",
+    "Type": "TTS Model",
+    "Abbreviation": "VoxCPM2",
+    "Title": "VoxCPM2 Technical Report",
+    "Time": "2026-06",
+    "Affiliation": "OpenBMB, ModelBest, Tsinghua University (THUHCSI)",
+    "Author": "Yixuan Zhou, Guoyang Zeng, Xin Liu, Xiang Li, Renjie Yu, Jiancheng Gui, Jiaheng Wu, Ziyang Wang, Xudong Shen, Runchuan Ye, Zhisheng Zhang, Jiuyang Zhou, Bingsong Bai, Weiyue Sun, Mengyuan Deng, Qundong Shi, Zhiyong Wu, Zhiyuan Liu",
+    "GitHub_Link": "https://github.com/OpenBMB/VoxCPM",
+    "Paper_Link": "https://arxiv.org/abs/2606.06928",
+    "HF_Link": "https://huggingface.co/openbmb/VoxCPM2",
+    "Demo_Link": "https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "Multilingual",
+    "Description": "VoxCPM2 is a fully open-source 2B-parameter multilingual, controllable speech generation foundation model extending VoxCPM's hierarchical diffusion-autoregressive paradigm. It unifies 30 languages, 9 Chinese dialects, natural-language voice design, style-controllable voice cloning, and high-fidelity continuation cloning in a single backbone, using an asymmetric AudioVAE that encodes at 16 kHz and reconstructs at 48 kHz, trained on over 2 million hours of speech."
+}

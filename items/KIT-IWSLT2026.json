@@ -1,0 +1,18 @@
+{
+    "Category": "Speech Synthesis",
+    "Type": "TTS System",
+    "Abbreviation": "KIT-IWSLT2026",
+    "Title": "KIT's Submission to Cross-Lingual Voice Cloning in IWSLT 2026",
+    "Time": "2026-06",
+    "Affiliation": "Karlsruhe Institute of Technology (KIT)",
+    "Author": "Seymanur Akti, Alexander Waibel",
+    "GitHub_Link": "",
+    "Paper_Link": "https://arxiv.org/abs/2606.07240",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "Multilingual",
+    "Description": "KIT's cross-lingual voice cloning system for the IWSLT 2026 track, built on the multilingual TTS model FishAudio-S2-Pro. It adds language-tag prompting to improve language control and reduce accent leakage, applies reinforcement-learning fine-tuning for task adaptation, and proposes a reference-conditioned lexical matching method to improve pronunciation of domain-specific terms."
+}

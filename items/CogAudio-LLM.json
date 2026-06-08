@@ -1,0 +1,18 @@
+{
+    "Category": "Model and Methods",
+    "Type": "Model",
+    "Abbreviation": "CogAudio-LLM",
+    "Title": "Beyond Semantic Dominance: Cognitive Affective Reasoning and Empathetic Response Alignment in Audio Language Models",
+    "Time": "2026-06",
+    "Affiliation": "Audio, Speech and Language Processing Group (ASLP), Northwestern Polytechnical University",
+    "Author": "Zhixian Zhao, Shuiyuan Wang, Wenjie Tian, Jingbin Hu, Ziyu Zhang, Lei Xie",
+    "GitHub_Link": "https://github.com/zxzhao0/CogAudio-LLM",
+    "Paper_Link": "https://arxiv.org/abs/2606.06940",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "Multilingual",
+    "Description": "CogAudio-LLM is a cognitive affective reasoning framework for audio language models that counters textual semantic dominance over acoustic nuance. It introduces LIME-440K, a lexically-identical multi-emotion dataset for acoustic-semantic decoupling, and EIPS, a four-step chain-of-thought psychological reasoning mechanism, established via multi-stage training to produce empathetic, emotion-aware responses."
+}

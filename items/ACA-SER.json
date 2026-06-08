@@ -1,0 +1,18 @@
+{
+    "Category": "Study",
+    "Type": "Study",
+    "Abbreviation": "ACA-SER",
+    "Title": "Acoustic Cue Alignment in Audio Language Models for Speech Emotion Recognition",
+    "Time": "2026-06",
+    "Affiliation": "University of Augsburg, Technical University of Munich, Imperial College London",
+    "Author": "Iosif Tsangko, Andreas Triantafyllopoulos, Björn W. Schuller",
+    "GitHub_Link": "",
+    "Paper_Link": "https://arxiv.org/abs/2606.07309",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "English",
+    "Description": "A probing study testing whether instruction-following audio language models use explicit acoustic concept tokens (six interpretable cues derived from the eGeMAPS feature set: energy, pitch, dynamics, brightness, formants, and voice quality) in a grounded way for speech emotion recognition. On FAU-Aibo and IEMOCAP, aligned tokens improve unweighted average recall while shuffled, conflicting, or corrupted tokens degrade it."
+}

@@ -1,0 +1,18 @@
+{
+    "Category": "Speech Synthesis",
+    "Type": "TTS Model",
+    "Abbreviation": "dots.tts",
+    "Title": "dots.tts Technical Report",
+    "Time": "2026-06",
+    "Affiliation": "rednote-hilab (RedNote / Xiaohongshu)",
+    "Author": "Shi Lian, Changtao Li, Bohan Li, Hankun Wang, Da Zheng, Junfeng Tian, Yufeng Ma, Colin Zhang, Kai Yu",
+    "GitHub_Link": "https://github.com/rednote-hilab/dots.tts",
+    "Paper_Link": "https://arxiv.org/abs/2606.07080",
+    "HF_Link": "https://huggingface.co/rednote-hilab",
+    "Demo_Link": "https://rednote-hilab.github.io/dots.tts-demo/",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "Yes",
+    "Language": "Multilingual",
+    "Description": "dots.tts is a 2B-parameter continuous autoregressive TTS foundation model that models speech in a continuous latent space, combining an AudioVAE trained with multiple objectives, full-history conditioning in a flow-matching head for long-range consistency, and reward-free self-corrective post-training. Trained on a large multilingual corpus, it supports zero-shot voice cloning and achieves the best average performance on Seed-TTS-Eval."
+}

@@ -1,0 +1,18 @@
+{
+    "Category": "Safety",
+    "Type": "Method",
+    "Abbreviation": "DSFA",
+    "Title": "Mitigating Proxy-to-Wild Domain Gap in Deepfake Speech",
+    "Time": "2026-06",
+    "Affiliation": "National Taiwan University",
+    "Author": "Xuanjun Chen, Yun-Shing Wu, Wei-Chung Lu, Claire Lin, Haibin Wu, Hung-yi Lee, Jyh-Shing Roger Jang",
+    "GitHub_Link": "",
+    "Paper_Link": "https://arxiv.org/abs/2606.07494",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "English",
+    "Description": "Proposes Domain-Shift Feature Augmentation (DSFA), which turns deterministic feature statistics into stochastic distributions during fine-tuning to simulate in-the-wild variation and improve the generalization of codec-based deepfake speech countermeasures. Also introduces CoSG ExtEval, a more challenging evaluation set covering 40 unseen generative models and long-form audio."
+}

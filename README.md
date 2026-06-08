@@ -2,7 +2,7 @@
 
 **The hub for audio AI research.** Curated papers, open models, benchmarks and datasets across audio LLMs · speech recognition · speech synthesis · music & audio generation.
 
-`121 entries` · `11 categories` · `latest: 2026-05`
+`129 entries` · `11 categories` · `latest: 2026-06`
 
 👉 **[Browse the interactive hub →](https://binwang28.github.io/audio-ai-hub/)** · [Contribute](CONTRIBUTING.md) · [Suggest a paper](https://github.com/BinWang28/audio-ai-hub/issues/new?template=add-paper.yml)
 
@@ -29,33 +29,33 @@ _Top 8 by GitHub stars — refreshed weekly by `.github/workflows/refresh-stars.
 
 _The 10 most recent entries by date. See the [interactive site](https://binwang28.github.io/audio-ai-hub/) for everything else._
 
+- `2026-06` · [ACA-SER](https://arxiv.org/abs/2606.07309) — A probing study testing whether instruction-following audio language models use explicit acoustic concept tokens (six interpretable cues derived from the eGeMAPS feature set: en…
+- `2026-06` · [AVSR-Gen](https://arxiv.org/abs/2606.07259) — Introduces MV2LRS3, a controlled unseen test set subsampled from MultiVSR to strictly match the acoustic, visual, and demographic distribution of LRS3, and shows that five state…
+- `2026-06` · [Audio-Oscar](https://arxiv.org/abs/2606.07397) — Audio-Oscar is a multi-agent framework that coordinates specialist agents (character and voice design, speech generation, fine-grained timeline planning, model selection, non-sp…
+- `2026-06` · [CogAudio-LLM](https://arxiv.org/abs/2606.06940) — CogAudio-LLM is a cognitive affective reasoning framework for audio language models that counters textual semantic dominance over acoustic nuance.
+- `2026-06` · [DSFA](https://arxiv.org/abs/2606.07494) — Proposes Domain-Shift Feature Augmentation (DSFA), which turns deterministic feature statistics into stochastic distributions during fine-tuning to simulate in-the-wild variatio…
+- `2026-06` · [KIT-IWSLT2026](https://arxiv.org/abs/2606.07240) — KIT's cross-lingual voice cloning system for the IWSLT 2026 track, built on the multilingual TTS model FishAudio-S2-Pro.
+- `2026-06` · [VoxCPM2](https://arxiv.org/abs/2606.06928) — VoxCPM2 is a fully open-source 2B-parameter multilingual, controllable speech generation foundation model extending VoxCPM's hierarchical diffusion-autoregressive paradigm.
+- `2026-06` · [dots.tts](https://arxiv.org/abs/2606.07080) — dots.tts is a 2B-parameter continuous autoregressive TTS foundation model that models speech in a continuous latent space, combining an AudioVAE trained with multiple objectives…
 - `2026-05` · [BEA-Dialogue+](https://arxiv.org/abs/2605.31469) — BEA-Dialogue+ is an expanded conversational Hungarian ASR corpus that relaxes the strictly speaker-disjoint split of BEA-Dialogue while preserving separation of the primary spea…
 - `2026-05` · [Chatterbox-Flash](https://arxiv.org/abs/2605.30748) — Chatterbox-Flash is a zero-shot TTS model created by fine-tuning a pretrained autoregressive TTS decoder into a block-diffusion decoder, enabling parallel token generation withi…
-- `2026-05` · [MindVoice](https://arxiv.org/abs/2605.31173) — MindVoice is a neuro-to-speech reconstruction framework that recovers intelligible speech from noisy, spatially-blurred non-invasive neural recordings by leveraging pretrained m…
-- `2026-05` · [SURE](https://arxiv.org/abs/2605.30899) — SURE is a unified experimentation framework for speech understanding that standardizes prediction formats, normalization, and scoring to make evaluations comparable across parad…
-- `2026-05` · [SwanSphere](https://arxiv.org/abs/2605.30940) — SwanSphere is a unified streaming framework for high-fidelity spatial audio generation from panoramic videos and text prompts.
-- `2026-05` · [UNISON](https://arxiv.org/abs/2605.31530) — UNISON is a latent diffusion framework that unifies speech generation, sound generation, and audio editing in a single set of weights, covering text-to-audio, text-to-speech, ze…
-- `2026-05` · [UniAudio-Token](https://arxiv.org/abs/2605.31521) — UniAudio-Token augments single-codebook semantic speech tokenizers with general audio perception without sacrificing speech ability, addressing the 'acoustic blindness' of lingu…
-- `2026-04` · [MiniCPM-o](https://arxiv.org/abs/2604.27393) — MiniCPM-o 4.5 is OpenBMB's compact (8B-class) full-duplex omni-modal LLM supporting real-time vision, speech, and text interaction with low-latency streaming TTS, designed for o…
-- `2025-12` · [Fun-ASR-Nano](https://arxiv.org/abs/2509.12508) — End-to-end LLM-based ASR (SenseVoice Encoder + Transformer Adaptor + Qwen3-0.6B LLM + CTC Decoder) from the FunAudioLLM team.
-- `2025-09` · [Qwen3-Omni](https://arxiv.org/abs/2509.17765) — Qwen3-Omni is the third-generation omni-modal LLM from Alibaba, scaling up the Thinker-Talker design with stronger multilingual ASR, audio understanding, and real-time speech ge…
 
 ## 📚 What's inside
 
 | Category | Entries |
 |----------|--------:|
-| [Model and Methods](https://binwang28.github.io/audio-ai-hub/#cat=Model%20and%20Methods) | 59 |
+| [Model and Methods](https://binwang28.github.io/audio-ai-hub/#cat=Model%20and%20Methods) | 60 |
 | [Speech Recognition](https://binwang28.github.io/audio-ai-hub/#cat=Speech%20Recognition) | 6 |
-| [Speech Synthesis](https://binwang28.github.io/audio-ai-hub/#cat=Speech%20Synthesis) | 10 |
-| [Audio Generation](https://binwang28.github.io/audio-ai-hub/#cat=Audio%20Generation) | 8 |
+| [Speech Synthesis](https://binwang28.github.io/audio-ai-hub/#cat=Speech%20Synthesis) | 13 |
+| [Audio Generation](https://binwang28.github.io/audio-ai-hub/#cat=Audio%20Generation) | 9 |
 | [Benchmark](https://binwang28.github.io/audio-ai-hub/#cat=Benchmark) | 19 |
 | [Dataset Resource](https://binwang28.github.io/audio-ai-hub/#cat=Dataset%20Resource) | 3 |
 | [Multimodal](https://binwang28.github.io/audio-ai-hub/#cat=Multimodal) | 6 |
 | [Survey](https://binwang28.github.io/audio-ai-hub/#cat=Survey) | 4 |
-| [Study](https://binwang28.github.io/audio-ai-hub/#cat=Study) | 1 |
-| [Safety](https://binwang28.github.io/audio-ai-hub/#cat=Safety) | 2 |
+| [Study](https://binwang28.github.io/audio-ai-hub/#cat=Study) | 3 |
+| [Safety](https://binwang28.github.io/audio-ai-hub/#cat=Safety) | 3 |
 | [Chatbot](https://binwang28.github.io/audio-ai-hub/#cat=Chatbot) | 3 |
-| **Total** | **121** |
+| **Total** | **129** |
 
 Each row links into the live site with the corresponding category filter pre-applied.
 

@@ -1,0 +1,18 @@
+{
+    "Category": "Study",
+    "Type": "Study",
+    "Abbreviation": "AVSR-Gen",
+    "Title": "Assessing True Generalisability of Audio-Visual Speech Recognisers",
+    "Time": "2026-06",
+    "Affiliation": "Trinity College Dublin, Imperial College London",
+    "Author": "Zhaofeng Lin, Stavros Petridis, Maja Pantic, Naomi Harte",
+    "GitHub_Link": "https://github.com/chaufanglin/mv2lrs3",
+    "Paper_Link": "https://arxiv.org/abs/2606.07259",
+    "HF_Link": "",
+    "Demo_Link": "",
+    "Other_Link": "",
+    "Audio_Input": "Yes",
+    "Audio_Output": "No",
+    "Language": "English",
+    "Description": "Introduces MV2LRS3, a controlled unseen test set subsampled from MultiVSR to strictly match the acoustic, visual, and demographic distribution of LRS3, and shows that five state-of-the-art audio-visual speech recognition models suffer a universal performance collapse under these matched conditions. A fine-grained attribute analysis isolates the drivers of degradation, indicating current systems fail to truly generalise."
+}
