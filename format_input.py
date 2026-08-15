@@ -218,7 +218,7 @@ readme.append(
 )
 readme.append("")
 readme.append(
-    "[![Star History Chart](https://api.star-history.com/svg?repos=BinWang28/audio-ai-hub&type=Date)](https://star-history.com/#BinWang28/audio-ai-hub&Date)"
+    "[![Star History Chart](https://star-history.dera.page/svg?repos=BinWang28/audio-ai-hub&type=Date)](https://star-history.dera.page/#BinWang28/audio-ai-hub&Date)"
 )
 readme.append("")
 

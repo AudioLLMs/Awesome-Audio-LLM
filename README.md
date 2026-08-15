@@ -73,4 +73,4 @@ If this hub is useful in your work, please cite it — metadata is in [`CITATION
 
 Thanks to [zwenyu](https://github.com/zwenyu), [Yuan-ManX](https://github.com/Yuan-ManX), [chaoweihuang](https://github.com/chaoweihuang), [Liu-Tianchi](https://github.com/Liu-Tianchi), [Sakshi113](https://github.com/Sakshi113), [hbwu-ntu](https://github.com/hbwu-ntu), [potsawee](https://github.com/potsawee), [czwxian](https://github.com/czwxian), [marianasignal](https://github.com/marianasignal), and many others who suggested entries or opened PRs.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BinWang28/audio-ai-hub&type=Date)](https://star-history.com/#BinWang28/audio-ai-hub&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=BinWang28/audio-ai-hub&type=Date)](https://star-history.dera.page/#BinWang28/audio-ai-hub&Date)
