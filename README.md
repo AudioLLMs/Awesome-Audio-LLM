@@ -22,7 +22,7 @@ _Top 8 by GitHub stars — refreshed weekly by `.github/workflows/refresh-stars.
 | 4 | **[MiniCPM-o](https://arxiv.org/abs/2604.27393)** | ⭐ 26k+ | MiniCPM-o 4.5 is OpenBMB's compact (8B-class) full-duplex omni-modal LLM supporting real-time vision, speech, and text interaction with l… |
 | 5 | **[MusicGen](https://arxiv.org/abs/2306.05284)** | ⭐ 23k+ | MusicGen is Meta's single-stage autoregressive transformer for controllable text-conditioned music generation, operating over discrete En… |
 | 6 | **[AudioGen](https://arxiv.org/abs/2209.15352)** | ⭐ 23k+ | AudioGen is a transformer-based autoregressive model for text-to-environmental-sound generation, trained on discrete audio tokens. |
-| 7 | **[IndexTTS](https://arxiv.org/abs/2502.05512)** | ⭐ 22k+ | IndexTTS is Bilibili's industrial-grade zero-shot TTS system optimised for production scenarios — controllable prosody, low-latency infer… |
+| 7 | **[IndexTTS](https://arxiv.org/abs/2502.05512)** | ⭐ 23k+ | IndexTTS is Bilibili's industrial-grade zero-shot TTS system optimised for production scenarios — controllable prosody, low-latency infer… |
 | 8 | **[CosyVoice 3](https://arxiv.org/abs/2505.17589)** | ⭐ 22k+ | CosyVoice 3 scales the CosyVoice TTS stack with significantly larger pre-training data and a dedicated post-training stage, targeting in-… |
 
 ## 🆕 Recently added
